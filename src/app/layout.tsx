@@ -11,6 +11,9 @@ export const metadata: Metadata = {
   title: 'TrackMasterTool - Parental Control & Family Digital Safety Software',
   description:
     'Transparent, consent-based parental control and authorized family device safety software. Monitor screen time, app usage, location, and web activity safely.',
+  verification: {
+    google: 'CcQcwt72vBgAW-GdACDcdnyuFrqdl1m8hHtEBL7ejhE',
+  },
 };
 
 export default function RootLayout({
