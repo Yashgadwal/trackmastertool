@@ -5,7 +5,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'App Usage Monitor & App Blocker for Parents',
   description: 'Categorized app usage reports, daily app budgets, and instant app blocking to manage your child digital habits.',
-  canonical: 'https://www.trackmastertool.com/app-usage-monitor',
+  canonical: 'https://trackmastertool.vercel.app/app-usage-monitor',
 });
 
 export default function AppUsageMonitorPage() {

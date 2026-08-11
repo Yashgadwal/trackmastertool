@@ -6,7 +6,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'Ultimate Guide to Cell Phone GPS Location Tracking & Family Geofencing (2026)',
   description: 'Learn how real-time cell phone GPS location tracking and automated geofencing help parents protect children while encouraging transparent family trust.',
-  canonical: 'https://www.trackmastertool.com/blog/parental-control/cellphone-gps-tracking',
+  canonical: 'https://trackmastertool.vercel.app/blog/parental-control/cellphone-gps-tracking',
 });
 
 export default function CellphoneGpsTrackingBlogPage() {

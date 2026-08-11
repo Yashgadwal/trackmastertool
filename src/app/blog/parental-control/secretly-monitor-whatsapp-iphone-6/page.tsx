@@ -31,7 +31,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: "How to Monitor WhatsApp Messages on iPhone 6: Truth & Safe Guide",
   description: "Can you secretly monitor WhatsApp on iPhone 6? Learn the truth about legacy iOS 12 limits, stalkerware scams, and how to set up transparent parental controls safely.",
-  canonical: "https://www.trackmastertool.com/blog/parental-control/secretly-monitor-whatsapp-iphone-6",
+  canonical: "https://trackmastertool.vercel.app/blog/parental-control/secretly-monitor-whatsapp-iphone-6",
 });
 
 export default function MonitorWhatsappIphone6Page() {
@@ -40,7 +40,7 @@ export default function MonitorWhatsappIphone6Page() {
     '@type': 'Article',
     headline: 'How to Monitor WhatsApp Messages on iPhone 6: Truth, Scams & Safe Alternatives',
     description: 'A comprehensive, cybersecurity-focused guide explaining the technical limitations of legacy devices like the iPhone 6, the dangers of covert stalkerware, and how to configure transparent parental controls using Family Sharing and TrackMasterTool.',
-    image: 'https://www.trackmastertool.com/images/blog/iphone_filtering.jpg',
+    image: 'https://trackmastertool.vercel.app/images/blog/iphone_filtering.jpg',
     author: {
       '@type': 'Organization',
       name: 'TrackMaster Editorial Team',
@@ -50,7 +50,7 @@ export default function MonitorWhatsappIphone6Page() {
       name: 'TrackMasterTool',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://www.trackmastertool.com/logo.png',
+        url: 'https://trackmastertool.vercel.app/logo.png',
       },
     },
     datePublished: '2026-08-11',
@@ -144,25 +144,25 @@ export default function MonitorWhatsappIphone6Page() {
         '@type': 'ListItem',
         position: 1,
         name: 'Home',
-        item: 'https://www.trackmastertool.com'
+        item: 'https://trackmastertool.vercel.app'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: 'Blog',
-        item: 'https://www.trackmastertool.com/blog'
+        item: 'https://trackmastertool.vercel.app/blog'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: 'Parental Control',
-        item: 'https://www.trackmastertool.com/blog/parental-control'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control'
       },
       {
         '@type': 'ListItem',
         position: 4,
         name: 'Secretly Monitor WhatsApp on iPhone 6',
-        item: 'https://www.trackmastertool.com/blog/parental-control/secretly-monitor-whatsapp-iphone-6'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control/secretly-monitor-whatsapp-iphone-6'
       }
     ]
   };

@@ -30,7 +30,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'WhatsApp Android Encryption Update & Device Safety Explained',
   description: 'An expert guide explaining WhatsApp’s default end-to-end encryption update. Learn how Signal Protocol works, why network sniffing fails, and how authorized device management tools operate.',
-  canonical: 'https://www.trackmastertool.com/blog/parental-control/whatsapp-end-to-end-encryption-explained',
+  canonical: 'https://trackmastertool.vercel.app/blog/parental-control/whatsapp-end-to-end-encryption-explained',
   ogImage: '/images/blog/viber_safety.jpg'
 });
 

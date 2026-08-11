@@ -29,7 +29,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'Top 5 Reasons to Use Spymaster Pro for Parental Control in 2025: A 2026 Comparison & Alternative Guide',
   description: 'An in-depth analysis of Spymaster Pro features versus transparent alternatives. Discover why hidden spy apps fail under 2026 OS security upgrades and why parents prefer consent-based tools like TrackMasterTool.',
-  canonical: 'https://www.trackmastertool.com/blog/parental-control/top-5-reasons-to-use-spymaster-pro-parental-control',
+  canonical: 'https://trackmastertool.vercel.app/blog/parental-control/top-5-reasons-to-use-spymaster-pro-parental-control',
 });
 
 export default function SpymasterProAlternativeGuidePage() {
@@ -38,7 +38,7 @@ export default function SpymasterProAlternativeGuidePage() {
     '@type': 'Article',
     headline: 'Top 5 Reasons to Use Spymaster Pro for Parental Control in 2025: A 2026 Comparison & Alternative Guide',
     description: 'A comprehensive educational guide and technical review analyzing Spymaster Pro’s stealth tracking model against the legal, ethical, and system security realities of 2026. Learn why modern families are transitioning from hidden spyware to transparent, authorized device management with TrackMasterTool.',
-    image: 'https://www.trackmastertool.com/images/blog/phone_monitoring.jpg',
+    image: 'https://trackmastertool.vercel.app/images/blog/phone_monitoring.jpg',
     author: {
       '@type': 'Organization',
       name: 'TrackMaster Editorial Team',
@@ -48,7 +48,7 @@ export default function SpymasterProAlternativeGuidePage() {
       name: 'TrackMasterTool',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://www.trackmastertool.com/logo.png',
+        url: 'https://trackmastertool.vercel.app/logo.png',
       },
     },
     datePublished: '2026-08-11',
@@ -134,25 +134,25 @@ export default function SpymasterProAlternativeGuidePage() {
         '@type': 'ListItem',
         position: 1,
         name: 'Home',
-        item: 'https://www.trackmastertool.com'
+        item: 'https://trackmastertool.vercel.app'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: 'Blog',
-        item: 'https://www.trackmastertool.com/blog'
+        item: 'https://trackmastertool.vercel.app/blog'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: 'Parental Control',
-        item: 'https://www.trackmastertool.com/blog/parental-control'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control'
       },
       {
         '@type': 'ListItem',
         position: 4,
         name: 'Spymaster Pro Review & Alternative Guide',
-        item: 'https://www.trackmastertool.com/blog/parental-control/top-5-reasons-to-use-spymaster-pro-parental-control'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control/top-5-reasons-to-use-spymaster-pro-parental-control'
       }
     ]
   };

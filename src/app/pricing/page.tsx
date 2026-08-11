@@ -6,7 +6,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'TrackMasterTool Pricing - Simple Family Safety Plans',
   description: 'Flexible monthly and yearly parental control plans. 100% transparent consent-based device supervision with 14-day money-back guarantee.',
-  canonical: 'https://www.trackmastertool.com/pricing',
+  canonical: 'https://trackmastertool.vercel.app/pricing',
 });
 
 export default function PricingPage() {

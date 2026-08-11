@@ -5,7 +5,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'iPhone Parental Controls - iOS Screen Time & Family Safety',
   description: 'Manage iPhone and iPad screen time, location sharing, and web safety via authorized Apple Family Sharing without jailbreaking.',
-  canonical: 'https://www.trackmastertool.com/iphone-parental-control',
+  canonical: 'https://trackmastertool.vercel.app/iphone-parental-control',
 });
 
 export default function IPhoneParentalControlPage() {

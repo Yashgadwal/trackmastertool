@@ -29,7 +29,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'How to Monitor Children’s WhatsApp Messages on Android (2026)',
   description: 'Learn how to monitor your child\'s WhatsApp messages on Android legally, safely, and transparently. A deep technical guide on accessibility APIs, screen time limits, and safety controls.',
-  canonical: 'https://www.trackmastertool.com/blog/parental-control/spy-children-whatsapp-messages-android',
+  canonical: 'https://trackmastertool.vercel.app/blog/parental-control/spy-children-whatsapp-messages-android',
   ogImage: '/images/blog/phone_monitoring.jpg',
 });
 
@@ -42,20 +42,20 @@ export default function SpyChildrenWhatsappMessagesAndroidPage() {
     'author': {
       '@type': 'Organization',
       'name': 'TrackMaster Editorial Team',
-      'url': 'https://www.trackmastertool.com'
+      'url': 'https://trackmastertool.vercel.app'
     },
     'publisher': {
       '@type': 'Organization',
       'name': 'TrackMasterTool',
       'logo': {
         '@type': 'ImageObject',
-        'url': 'https://www.trackmastertool.com/logo.png'
+        'url': 'https://trackmastertool.vercel.app/logo.png'
       }
     },
     'datePublished': '2026-08-11',
     'dateModified': '2026-08-11',
-    'mainEntityOfPage': 'https://www.trackmastertool.com/blog/parental-control/spy-children-whatsapp-messages-android',
-    'image': 'https://www.trackmastertool.com/images/blog/phone_monitoring.jpg'
+    'mainEntityOfPage': 'https://trackmastertool.vercel.app/blog/parental-control/spy-children-whatsapp-messages-android',
+    'image': 'https://trackmastertool.vercel.app/images/blog/phone_monitoring.jpg'
   };
 
   const jsonLdFaq = {

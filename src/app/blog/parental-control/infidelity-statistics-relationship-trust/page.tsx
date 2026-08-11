@@ -23,7 +23,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: "Infidelity Statistics 2025: Who Cheats More? | TrackMasterTool",
   description: "Examine the latest 2025 infidelity statistics. Discover why installing covert spouseware is illegal, warning signs of online tracking scams, and legal family safety alternatives.",
-  canonical: "https://www.trackmastertool.com/blog/parental-control/infidelity-statistics-relationship-trust",
+  canonical: "https://trackmastertool.vercel.app/blog/parental-control/infidelity-statistics-relationship-trust",
 });
 
 export default function InfidelityStatisticsBlogPage() {

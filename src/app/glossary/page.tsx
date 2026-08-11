@@ -5,7 +5,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'Digital Safety Glossary - Parental Control Terms',
   description: 'Definitions of key family online safety terms including Geofencing, Screen Time, Web Filtering, SafeSearch, and Digital Wellbeing.',
-  canonical: 'https://www.trackmastertool.com/glossary',
+  canonical: 'https://trackmastertool.vercel.app/glossary',
 });
 
 export default function GlossaryPage() {

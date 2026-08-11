@@ -27,7 +27,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'How Parental Control Apps Block Content & Keep Kids Safe Online',
   description: 'Learn how parental control apps filter web content using DNS, local proxies, VPN tunneling, native APIs, SafeSearch enforcement, and real-time AI categorization.',
-  canonical: 'https://www.trackmastertool.com/blog/parental-control/how-parental-control-apps-block-content',
+  canonical: 'https://trackmastertool.vercel.app/blog/parental-control/how-parental-control-apps-block-content',
 });
 
 export default function HowParentalControlAppsBlockContentPage() {
@@ -39,19 +39,19 @@ export default function HowParentalControlAppsBlockContentPage() {
     author: {
       '@type': 'Organization',
       name: 'TrackMaster Editorial Team',
-      url: 'https://www.trackmastertool.com',
+      url: 'https://trackmastertool.vercel.app',
     },
     publisher: {
       '@type': 'Organization',
       name: 'TrackMasterTool',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://www.trackmastertool.com/logo.png',
+        url: 'https://trackmastertool.vercel.app/logo.png',
       },
     },
     datePublished: '2026-08-11',
     dateModified: '2026-08-11',
-    mainEntityOfPage: 'https://www.trackmastertool.com/blog/parental-control/how-parental-control-apps-block-content',
+    mainEntityOfPage: 'https://trackmastertool.vercel.app/blog/parental-control/how-parental-control-apps-block-content',
   };
 
   const faqSchema = {

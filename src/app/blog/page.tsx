@@ -6,7 +6,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'Family Safety Blog & Parental Control Guides (2000+ Words Each)',
   description: 'In-depth, 2000+ word expert guides on cell phone monitoring, WhatsApp supervision, TikTok DM safety, iPhone web filtering, and GPS location tracking.',
-  canonical: 'https://www.trackmastertool.com/blog',
+  canonical: 'https://trackmastertool.vercel.app/blog',
 });
 
 import { articles } from '@/data/articles';

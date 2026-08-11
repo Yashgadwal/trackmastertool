@@ -29,7 +29,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'Cell Phone Tracking in the US: Legality, Tech, and Family Safety Rules',
   description: 'Understand the legal state of cell phone tracking in the US, including federal wiretapping laws, state privacy acts, COPPA compliance, and transparent family location monitoring.',
-  canonical: 'https://www.trackmastertool.com/blog/parental-control/cell-phone-tracking-in-us',
+  canonical: 'https://trackmastertool.vercel.app/blog/parental-control/cell-phone-tracking-in-us',
 });
 
 export default function CellPhoneTrackingInUSPage() {
@@ -38,7 +38,7 @@ export default function CellPhoneTrackingInUSPage() {
     '@type': 'Article',
     headline: 'Cell Phone Tracking in the US: A Comprehensive Guide to Legalities, Privacy Laws, and Family Safety',
     description: 'An authoritative guide to cell phone tracking legal frameworks in the United States, including federal wiretapping statutes, state privacy acts, COPPA compliance, GPS/cellular mechanics, and the legal alternative for family protection.',
-    image: 'https://www.trackmastertool.com/images/blog/phone_monitoring.jpg',
+    image: 'https://trackmastertool.vercel.app/images/blog/phone_monitoring.jpg',
     author: {
       '@type': 'Organization',
       name: 'TrackMaster Editorial Team',
@@ -48,7 +48,7 @@ export default function CellPhoneTrackingInUSPage() {
       name: 'TrackMasterTool',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://www.trackmastertool.com/logo.png',
+        url: 'https://trackmastertool.vercel.app/logo.png',
       },
     },
     datePublished: '2026-08-11',
@@ -142,25 +142,25 @@ export default function CellPhoneTrackingInUSPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'Home',
-        item: 'https://www.trackmastertool.com'
+        item: 'https://trackmastertool.vercel.app'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: 'Blog',
-        item: 'https://www.trackmastertool.com/blog'
+        item: 'https://trackmastertool.vercel.app/blog'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: 'Parental Control',
-        item: 'https://www.trackmastertool.com/blog/parental-control'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control'
       },
       {
         '@type': 'ListItem',
         position: 4,
         name: 'Cell Phone Tracking in US',
-        item: 'https://www.trackmastertool.com/blog/parental-control/cell-phone-tracking-in-us'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control/cell-phone-tracking-in-us'
       }
     ]
   };

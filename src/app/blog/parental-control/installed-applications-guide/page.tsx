@@ -6,7 +6,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'Installed Applications & Parental App Control Guide (2026)',
   description: 'Learn how to manage installed applications on your child’s phone, block dangerous apps, set daily app budgets, and prevent screen addiction with TrackMasterTool.',
-  canonical: 'https://www.trackmastertool.com/blog/parental-control/installed-applications-guide',
+  canonical: 'https://trackmastertool.vercel.app/blog/parental-control/installed-applications-guide',
 });
 
 export default function InstalledApplicationsGuidePage() {

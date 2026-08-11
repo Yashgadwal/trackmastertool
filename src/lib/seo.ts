@@ -9,7 +9,7 @@ export interface SEOProps {
 export function generateMetadata({
   title,
   description,
-  canonical = 'https://www.trackmastertool.com',
+  canonical = 'https://trackmastertool.vercel.app',
   ogImage = '/og-image.jpg',
   noindex = false,
 }: SEOProps) {
@@ -69,8 +69,8 @@ export function generateOrganizationJsonLd() {
     '@context': 'https://schema.org',
     '@type': 'Organization',
     name: 'TrackMasterTool',
-    url: 'https://www.trackmastertool.com',
-    logo: 'https://www.trackmastertool.com/logo.png',
+    url: 'https://trackmastertool.vercel.app',
+    logo: 'https://trackmastertool.vercel.app/logo.png',
     sameAs: [
       'https://twitter.com/trackmastertool',
       'https://www.facebook.com/trackmastertool',

@@ -6,7 +6,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'Android Parental Control App Guide for Parents (2026)',
   description: 'Complete guide for parents on setting up Android parental controls, managing screen time, blocking harmful sites, and location sharing without root access.',
-  canonical: 'https://www.trackmastertool.com/blog/parental-control/android-parental-control-guide',
+  canonical: 'https://trackmastertool.vercel.app/blog/parental-control/android-parental-control-guide',
 });
 
 export default function AndroidParentalControlGuidePage() {

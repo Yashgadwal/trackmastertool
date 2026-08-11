@@ -6,7 +6,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'Complete Feature Suite - Parental Control & Location Tracking | TrackMasterTool',
   description: 'Explore the complete 15-feature suite of TrackMasterTool: Real-time family GPS, geofencing safe zones, screen time quotas, web content filtering, app usage limits, and activity reports.',
-  canonical: 'https://www.trackmastertool.com/features',
+  canonical: 'https://trackmastertool.vercel.app/features',
 });
 
 const featureCards = [
@@ -159,10 +159,10 @@ export default function AllFeaturesPage() {
       name: 'TrackMasterTool',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://www.trackmastertool.com/logo.png',
+        url: 'https://trackmastertool.vercel.app/logo.png',
       },
     },
-    mainEntityOfPage: 'https://www.trackmastertool.com/features',
+    mainEntityOfPage: 'https://trackmastertool.vercel.app/features',
   };
 
   return (

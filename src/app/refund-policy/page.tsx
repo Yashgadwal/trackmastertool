@@ -4,7 +4,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: '14-Day 100% Refund Policy - TrackMasterTool',
   description: 'TrackMasterTool 14-day 100% money back refund policy guarantee for parental control subscriptions.',
-  canonical: 'https://www.trackmastertool.com/refund-policy',
+  canonical: 'https://trackmastertool.vercel.app/refund-policy',
 });
 
 export default function RefundPolicyPage() {
@@ -22,7 +22,7 @@ export default function RefundPolicyPage() {
 
           <h2 className="font-heading font-bold text-xl text-slate-900">How to Request a Refund</h2>
           <p>
-            Simply email <strong>support@trackmastertool.com</strong> or submit a ticket from your account portal with your order number. Refunds are processed back to your original payment method via Razorpay within 3 to 5 business days.
+            Simply email <strong>support@trackmastertool.vercel.app</strong> or submit a ticket from your account portal with your order number. Refunds are processed back to your original payment method via Razorpay within 3 to 5 business days.
           </p>
         </div>
       </div>

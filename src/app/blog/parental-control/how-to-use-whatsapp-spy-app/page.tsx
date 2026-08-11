@@ -25,7 +25,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'How to Use WhatsApp Spy App in Android & iPhone: Safety Guide',
   description: 'Learn the legal and safety facts about WhatsApp spy apps on Android and iPhone. Discover why covert spyware fails and how transparent family parental control keeps children safe.',
-  canonical: 'https://www.trackmastertool.com/blog/parental-control/how-to-use-whatsapp-spy-app',
+  canonical: 'https://trackmastertool.vercel.app/blog/parental-control/how-to-use-whatsapp-spy-app',
 });
 
 export default function WhatsAppSpyAppGuidePage() {
@@ -34,7 +34,7 @@ export default function WhatsAppSpyAppGuidePage() {
     '@type': 'Article',
     headline: 'How to Use WhatsApp Spy App in Android and iPhone: Legal Limits & Safety Guide',
     description: 'A comprehensive, technical, and educational guide for families exploring WhatsApp supervision. Understand the cybersecurity risks of covert stalkerware and set up transparent, authorized parental controls.',
-    image: 'https://www.trackmastertool.com/images/blog/phone_monitoring.jpg',
+    image: 'https://trackmastertool.vercel.app/images/blog/phone_monitoring.jpg',
     author: {
       '@type': 'Organization',
       name: 'TrackMaster Editorial Team',
@@ -44,7 +44,7 @@ export default function WhatsAppSpyAppGuidePage() {
       name: 'TrackMasterTool',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://www.trackmastertool.com/logo.png',
+        url: 'https://trackmastertool.vercel.app/logo.png',
       },
     },
     datePublished: '2026-08-11',
@@ -138,25 +138,25 @@ export default function WhatsAppSpyAppGuidePage() {
         '@type': 'ListItem',
         position: 1,
         name: 'Home',
-        item: 'https://www.trackmastertool.com'
+        item: 'https://trackmastertool.vercel.app'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: 'Blog',
-        item: 'https://www.trackmastertool.com/blog'
+        item: 'https://trackmastertool.vercel.app/blog'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: 'Parental Control',
-        item: 'https://www.trackmastertool.com/blog/parental-control'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control'
       },
       {
         '@type': 'ListItem',
         position: 4,
         name: 'WhatsApp Supervision Guide',
-        item: 'https://www.trackmastertool.com/blog/parental-control/how-to-use-whatsapp-spy-app'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control/how-to-use-whatsapp-spy-app'
       }
     ]
   };

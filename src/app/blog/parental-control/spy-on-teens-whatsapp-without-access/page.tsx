@@ -26,7 +26,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: "Spy on Teen's WhatsApp Without Access to Cellphone: Facts & Scams",
   description: "Learn the truth about WhatsApp monitoring. Discover why remote 'no-access' spying is a dangerous scam, and explore transparent, consent-based parental controls.",
-  canonical: 'https://www.trackmastertool.com/blog/parental-control/spy-on-teens-whatsapp-without-access',
+  canonical: 'https://trackmastertool.vercel.app/blog/parental-control/spy-on-teens-whatsapp-without-access',
 });
 
 export default function SpyOnTeensWhatsappWithoutAccessPage() {
@@ -35,7 +35,7 @@ export default function SpyOnTeensWhatsappWithoutAccessPage() {
     '@type': 'Article',
     headline: "Can You Spy on Your Teen's WhatsApp Account Without Access to the Cellphone? The Technical Truth & Scams Parents Must Avoid",
     description: 'An educational guide exposing remote cellphone tracking scams, clarifying the technical reality of mobile sandboxing, and highlighting transparent parental controls as the safe, legal path.',
-    image: 'https://www.trackmastertool.com/images/blog/phone_monitoring.jpg',
+    image: 'https://trackmastertool.vercel.app/images/blog/phone_monitoring.jpg',
     author: {
       '@type': 'Organization',
       name: 'TrackMaster Editorial Team',
@@ -45,7 +45,7 @@ export default function SpyOnTeensWhatsappWithoutAccessPage() {
       name: 'TrackMasterTool',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://www.trackmastertool.com/logo.png',
+        url: 'https://trackmastertool.vercel.app/logo.png',
       },
     },
     datePublished: '2026-08-11',
@@ -131,25 +131,25 @@ export default function SpyOnTeensWhatsappWithoutAccessPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'Home',
-        item: 'https://www.trackmastertool.com'
+        item: 'https://trackmastertool.vercel.app'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: 'Blog',
-        item: 'https://www.trackmastertool.com/blog'
+        item: 'https://trackmastertool.vercel.app/blog'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: 'Parental Control',
-        item: 'https://www.trackmastertool.com/blog/parental-control'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control'
       },
       {
         '@type': 'ListItem',
         position: 4,
         name: 'WhatsApp Supervision Guide',
-        item: 'https://www.trackmastertool.com/blog/parental-control/spy-on-teens-whatsapp-without-access'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control/spy-on-teens-whatsapp-without-access'
       }
     ]
   };

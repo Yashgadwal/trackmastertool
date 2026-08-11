@@ -32,7 +32,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: "How to View Your Boyfriend's WhatsApp Messages on Your Phone?",
   description: "An educational guide on the legal risks of stalkerware, online spy scams, and relationship safety. Discover why secret tracking is illegal and learn about transparent family alternatives.",
-  canonical: "https://www.trackmastertool.com/blog/parental-control/how-to-view-boyfriends-whatsapp-messages-on-your-phone",
+  canonical: "https://trackmastertool.vercel.app/blog/parental-control/how-to-view-boyfriends-whatsapp-messages-on-your-phone",
 });
 
 export default function HowToViewBoyfriendsWhatsAppPage() {

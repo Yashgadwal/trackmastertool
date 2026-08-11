@@ -27,7 +27,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'Think Your Texts Are Private? SMS Trackers Might Be Watching',
   description: 'Are your text messages secure? Learn how SMS trackers and spyware intercept private texts, understand the risks of unencrypted SMS, and discover how to protect your family’s devices legally and transparently.',
-  canonical: 'https://www.trackmastertool.com/blog/parental-control/sms-trackers-private-texts',
+  canonical: 'https://trackmastertool.vercel.app/blog/parental-control/sms-trackers-private-texts',
   ogImage: '/images/blog/phone_monitoring.jpg',
 });
 
@@ -37,7 +37,7 @@ export default function SMSTrackersPrivateTextsPage() {
     '@type': 'Article',
     headline: 'Think Your Texts Are Private? SMS Trackers Might Be Watching',
     description: 'A comprehensive educational guide explaining how SMS trackers intercept private text messages, the vulnerabilities of legacy cellular protocols, and how to implement legal, consent-based parental controls using TrackMasterTool.',
-    image: 'https://www.trackmastertool.com/images/blog/phone_monitoring.jpg',
+    image: 'https://trackmastertool.vercel.app/images/blog/phone_monitoring.jpg',
     author: {
       '@type': 'Organization',
       name: 'TrackMaster Editorial Team',
@@ -47,7 +47,7 @@ export default function SMSTrackersPrivateTextsPage() {
       name: 'TrackMasterTool',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://www.trackmastertool.com/logo.png',
+        url: 'https://trackmastertool.vercel.app/logo.png',
       },
     },
     datePublished: '2026-08-11',
@@ -141,25 +141,25 @@ export default function SMSTrackersPrivateTextsPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'Home',
-        item: 'https://www.trackmastertool.com'
+        item: 'https://trackmastertool.vercel.app'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: 'Blog',
-        item: 'https://www.trackmastertool.com/blog'
+        item: 'https://trackmastertool.vercel.app/blog'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: 'Parental Control',
-        item: 'https://www.trackmastertool.com/blog/parental-control'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control'
       },
       {
         '@type': 'ListItem',
         position: 4,
         name: 'SMS Trackers & Private Texts',
-        item: 'https://www.trackmastertool.com/blog/parental-control/sms-trackers-private-texts'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control/sms-trackers-private-texts'
       }
     ]
   };

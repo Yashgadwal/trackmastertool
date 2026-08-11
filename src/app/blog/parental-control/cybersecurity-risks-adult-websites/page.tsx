@@ -27,7 +27,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'Cybersecurity Risks of Adult Websites: A Family Safety Guide',
   description: 'An authoritative 2000+ word cybersecurity analysis of adult website malware, malvertising, drive-by downloads, and subscription fraud, and how parents can safeguard family devices.',
-  canonical: 'https://www.trackmastertool.com/blog/parental-control/cybersecurity-risks-adult-websites',
+  canonical: 'https://trackmastertool.vercel.app/blog/parental-control/cybersecurity-risks-adult-websites',
 });
 
 export default function CybersecurityRisksAdultWebsitesPage() {
@@ -39,19 +39,19 @@ export default function CybersecurityRisksAdultWebsitesPage() {
     author: {
       '@type': 'Organization',
       name: 'TrackMaster Editorial Team',
-      url: 'https://www.trackmastertool.com',
+      url: 'https://trackmastertool.vercel.app',
     },
     publisher: {
       '@type': 'Organization',
       name: 'TrackMasterTool',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://www.trackmastertool.com/logo.png',
+        url: 'https://trackmastertool.vercel.app/logo.png',
       },
     },
     datePublished: '2026-08-11',
     dateModified: '2026-08-11',
-    mainEntityOfPage: 'https://www.trackmastertool.com/blog/parental-control/cybersecurity-risks-adult-websites',
+    mainEntityOfPage: 'https://trackmastertool.vercel.app/blog/parental-control/cybersecurity-risks-adult-websites',
   };
 
   const faqSchema = {

@@ -5,7 +5,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'Website Blocker for Kids & Family Web Filter',
   description: 'Block inappropriate websites, adult content, gambling, and violent sites across Safari, Chrome, and mobile browsers.',
-  canonical: 'https://www.trackmastertool.com/website-blocker',
+  canonical: 'https://trackmastertool.vercel.app/website-blocker',
 });
 
 export default function WebsiteBlockerPage() {

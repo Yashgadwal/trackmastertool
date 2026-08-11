@@ -5,7 +5,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'Android Parental Controls - Supervise Samsung, Pixel & Xiaomi',
   description: 'Manage Android screen time, app limits, web filtering, and real-time GPS location sharing without root access.',
-  canonical: 'https://www.trackmastertool.com/android-parental-control',
+  canonical: 'https://trackmastertool.vercel.app/android-parental-control',
 });
 
 export default function AndroidParentalControlPage() {

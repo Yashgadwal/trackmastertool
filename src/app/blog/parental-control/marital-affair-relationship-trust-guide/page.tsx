@@ -32,7 +32,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: "How to Address Relationship Doubts & Avoid Infidelity Spyware Scams: Legal Guide",
   description: "Navigating relationship doubts? Learn the legal reality of spouse tracking (ECPA/Wiretap Act), expose hired hacker scams, and explore transparent family security with TrackMasterTool.",
-  canonical: "https://www.trackmastertool.com/blog/parental-control/marital-affair-relationship-trust-guide",
+  canonical: "https://trackmastertool.vercel.app/blog/parental-control/marital-affair-relationship-trust-guide",
 });
 
 export default function MaritalAffairRelationshipTrustGuidePage() {

@@ -5,7 +5,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'Family Safety App for Android & iPhone',
   description: 'TrackMasterTool is the modern family safety app providing real-time location sharing, screen time balance, and web security with full consent.',
-  canonical: 'https://www.trackmastertool.com/family-safety-app',
+  canonical: 'https://trackmastertool.vercel.app/family-safety-app',
 });
 
 export default function FamilySafetyAppPage() {

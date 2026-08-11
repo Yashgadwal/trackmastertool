@@ -24,7 +24,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'How to Monitor Viber Messages Safely in 2026: Complete Guide for Parents',
   description: 'Learn how to supervise your child’s Viber messaging activity safely, manage screen time, block inappropriate contacts, and prevent cyberbullying with TrackMasterTool.',
-  canonical: 'https://www.trackmastertool.com/blog/parental-control/how-to-monitor-viber-messages-safely',
+  canonical: 'https://trackmastertool.vercel.app/blog/parental-control/how-to-monitor-viber-messages-safely',
 });
 
 export default function ViberSafetyGuidePage() {
@@ -33,7 +33,7 @@ export default function ViberSafetyGuidePage() {
     '@type': 'Article',
     headline: 'How to Monitor Viber Messages Safely in 2026: Complete Guide for Parents',
     description: 'A comprehensive guide for parents on supervising Viber usage, understanding encryption and secret chats, preventing cyberbullying, and establishing family digital safety using TrackMasterTool.',
-    image: 'https://www.trackmastertool.com/images/blog/viber_safety.jpg',
+    image: 'https://trackmastertool.vercel.app/images/blog/viber_safety.jpg',
     author: {
       '@type': 'Organization',
       name: 'TrackMaster Editorial Team',
@@ -43,7 +43,7 @@ export default function ViberSafetyGuidePage() {
       name: 'TrackMasterTool',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://www.trackmastertool.com/logo.png',
+        url: 'https://trackmastertool.vercel.app/logo.png',
       },
     },
     datePublished: '2026-08-10',
@@ -137,25 +137,25 @@ export default function ViberSafetyGuidePage() {
         '@type': 'ListItem',
         position: 1,
         name: 'Home',
-        item: 'https://www.trackmastertool.com'
+        item: 'https://trackmastertool.vercel.app'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: 'Blog',
-        item: 'https://www.trackmastertool.com/blog'
+        item: 'https://trackmastertool.vercel.app/blog'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: 'Parental Control',
-        item: 'https://www.trackmastertool.com/blog/parental-control'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control'
       },
       {
         '@type': 'ListItem',
         position: 4,
         name: 'Viber Safety Guide',
-        item: 'https://www.trackmastertool.com/blog/parental-control/how-to-monitor-viber-messages-safely'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control/how-to-monitor-viber-messages-safely'
       }
     ]
   };

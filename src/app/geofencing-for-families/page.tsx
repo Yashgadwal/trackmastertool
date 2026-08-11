@@ -5,7 +5,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'Geofencing for Families - Custom GPS Safe Zone Alerts',
   description: 'Create geofence safe zones for Home, School, and Coaching. Receive instant arrival and departure notifications on your phone.',
-  canonical: 'https://www.trackmastertool.com/geofencing-for-families',
+  canonical: 'https://trackmastertool.vercel.app/geofencing-for-families',
 });
 
 export default function GeofencingForFamiliesPage() {

@@ -31,7 +31,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: "How to Put Spyware on Someone's iPhone: Risks, Legal Rules, and Safety Alerts",
   description: "Learn about the methods bad actors use to install stalkerware on iPhones, the severe legal consequences under the Wiretap Act, iOS safety alerts, and safe, consent-based parental alternatives.",
-  canonical: "https://www.trackmastertool.com/blog/parental-control/how-to-put-spyware-on-iphone-risks",
+  canonical: "https://trackmastertool.vercel.app/blog/parental-control/how-to-put-spyware-on-iphone-risks",
 });
 
 export default function HowToPutSpywareOnIphoneRisksPage() {
@@ -43,19 +43,19 @@ export default function HowToPutSpywareOnIphoneRisksPage() {
     author: {
       '@type': 'Organization',
       name: 'TrackMaster Editorial Team',
-      url: 'https://www.trackmastertool.com',
+      url: 'https://trackmastertool.vercel.app',
     },
     publisher: {
       '@type': 'Organization',
       name: 'TrackMasterTool',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://www.trackmastertool.com/logo.png',
+        url: 'https://trackmastertool.vercel.app/logo.png',
       },
     },
     datePublished: '2026-08-11',
     dateModified: '2026-08-11',
-    mainEntityOfPage: 'https://www.trackmastertool.com/blog/parental-control/how-to-put-spyware-on-iphone-risks',
+    mainEntityOfPage: 'https://trackmastertool.vercel.app/blog/parental-control/how-to-put-spyware-on-iphone-risks',
   };
 
   const jsonLdFaq = {

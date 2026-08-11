@@ -27,7 +27,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'Is Your Child Walking on the Right Path? Physical & Digital Guidance Guide',
   description: 'Learn how to guide your child towards physical and digital safety. Discover how transparent geofencing, location alerts, web filtering, and family contracts build trust.',
-  canonical: 'https://www.trackmastertool.com/blog/parental-control/is-your-child-walking-on-right-path',
+  canonical: 'https://trackmastertool.vercel.app/blog/parental-control/is-your-child-walking-on-right-path',
 });
 
 export default function ChildWalkingRightPathPage() {
@@ -36,7 +36,7 @@ export default function ChildWalkingRightPathPage() {
     '@type': 'Article',
     headline: 'Is Your Child Walking on the Right Path? Physical & Digital Guidance Guide for Parents',
     description: 'A comprehensive, multi-dimensional guide helping modern parents supervise their children\'s physical movements and online digital habits using geofencing, web filtering, and cooperative trust contracts with TrackMasterTool.',
-    image: 'https://www.trackmastertool.com/images/blog/phone_monitoring.jpg',
+    image: 'https://trackmastertool.vercel.app/images/blog/phone_monitoring.jpg',
     author: {
       '@type': 'Organization',
       name: 'TrackMaster Editorial Team',
@@ -46,7 +46,7 @@ export default function ChildWalkingRightPathPage() {
       name: 'TrackMasterTool',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://www.trackmastertool.com/logo.png',
+        url: 'https://trackmastertool.vercel.app/logo.png',
       },
     },
     datePublished: '2026-08-11',
@@ -140,25 +140,25 @@ export default function ChildWalkingRightPathPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'Home',
-        item: 'https://www.trackmastertool.com'
+        item: 'https://trackmastertool.vercel.app'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: 'Blog',
-        item: 'https://www.trackmastertool.com/blog'
+        item: 'https://trackmastertool.vercel.app/blog'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: 'Parental Control',
-        item: 'https://www.trackmastertool.com/blog/parental-control'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control'
       },
       {
         '@type': 'ListItem',
         position: 4,
         name: 'Child Safety Guidance',
-        item: 'https://www.trackmastertool.com/blog/parental-control/is-your-child-walking-on-right-path'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control/is-your-child-walking-on-right-path'
       }
     ]
   };

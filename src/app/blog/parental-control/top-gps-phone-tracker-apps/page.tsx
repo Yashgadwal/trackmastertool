@@ -31,7 +31,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'Top 5 Best GPS Phone Tracker Apps of 2026: Comprehensive Location Safety Guide',
   description: 'Looking for the best GPS phone tracker app? Compare the top 5 location sharing solutions including TrackMasterTool, Apple Find My, and Life360. Explore technical accuracy, geofencing, and privacy guidelines.',
-  canonical: 'https://www.trackmastertool.com/blog/parental-control/top-gps-phone-tracker-apps',
+  canonical: 'https://trackmastertool.vercel.app/blog/parental-control/top-gps-phone-tracker-apps',
 });
 
 export default function TopGpsPhoneTrackerAppsPage() {
@@ -43,19 +43,19 @@ export default function TopGpsPhoneTrackerAppsPage() {
     author: {
       '@type': 'Organization',
       name: 'TrackMaster Editorial Team',
-      url: 'https://www.trackmastertool.com',
+      url: 'https://trackmastertool.vercel.app',
     },
     publisher: {
       '@type': 'Organization',
       name: 'TrackMasterTool',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://www.trackmastertool.com/logo.png',
+        url: 'https://trackmastertool.vercel.app/logo.png',
       },
     },
     datePublished: '2026-08-11',
     dateModified: '2026-08-11',
-    mainEntityOfPage: 'https://www.trackmastertool.com/blog/parental-control/top-gps-phone-tracker-apps',
+    mainEntityOfPage: 'https://trackmastertool.vercel.app/blog/parental-control/top-gps-phone-tracker-apps',
   };
 
   const jsonLdFaq = {

@@ -30,7 +30,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: "Can You View Someone's Messages on Your Phone? Here's the Truth",
   description: "Discover the truth about remote message tracking. Learn why remote SMS interceptors are online scams, how OS sandboxing and end-to-end encryption work, the severe legal consequences of spyware, and how to implement transparent family digital safety rules.",
-  canonical: "https://www.trackmastertool.com/blog/parental-control/can-you-view-someones-messages-on-your-phone",
+  canonical: "https://trackmastertool.vercel.app/blog/parental-control/can-you-view-someones-messages-on-your-phone",
 });
 
 export default function CanYouViewSomeonesMessagesBlogPage() {

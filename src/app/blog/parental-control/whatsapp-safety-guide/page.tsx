@@ -6,7 +6,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'WhatsApp Parental Supervision & Family Safety Guide (2026)',
   description: 'Learn how to protect your children on WhatsApp, prevent cyberbullying, filter inappropriate media, and guide healthy messaging habits with TrackMasterTool.',
-  canonical: 'https://www.trackmastertool.com/blog/parental-control/whatsapp-safety-guide',
+  canonical: 'https://trackmastertool.vercel.app/blog/parental-control/whatsapp-safety-guide',
 });
 
 export default function WhatsappSafetyGuidePage() {

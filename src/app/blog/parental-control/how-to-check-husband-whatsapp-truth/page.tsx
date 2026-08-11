@@ -32,7 +32,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: "How to Check My Husband's WhatsApp: Legal Risks, Scams & Safety Guide",
   description: "Curious about how to check your husband's WhatsApp? Learn about the severe legal risks (ECPA/CFAA), spyware scams, online safety, and legal family alternatives.",
-  canonical: "https://www.trackmastertool.com/blog/parental-control/how-to-check-husband-whatsapp-truth",
+  canonical: "https://trackmastertool.vercel.app/blog/parental-control/how-to-check-husband-whatsapp-truth",
 });
 
 export default function HowToCheckHusbandWhatsAppPage() {

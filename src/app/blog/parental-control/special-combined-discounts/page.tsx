@@ -29,7 +29,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'Get 25% + 20% DISCOUNT On Spymaster Pro: Combined Offers vs. TrackMaster Pricing',
   description: 'Analyzing the Spymaster Pro discount coupon strategy. Learn the hidden costs of stealth tracking software and why parents prefer TrackMasterTool’s transparent, flat-rate Lifetime plan.',
-  canonical: 'https://www.trackmastertool.com/blog/parental-control/special-combined-discounts',
+  canonical: 'https://trackmastertool.vercel.app/blog/parental-control/special-combined-discounts',
 });
 
 export default function SpecialCombinedDiscountsPage() {
@@ -38,7 +38,7 @@ export default function SpecialCombinedDiscountsPage() {
     '@type': 'Article',
     headline: 'Get 25% + 20% DISCOUNT On Spymaster Pro: Special Combined Offers vs. TrackMaster Pricing Packages',
     description: 'An in-depth cybersecurity review and pricing analysis comparing stacked discount strategies in stealth spyware with TrackMasterTool’s transparent, consent-based parental control packages.',
-    image: 'https://www.trackmastertool.com/images/blog/phone_monitoring.jpg',
+    image: 'https://trackmastertool.vercel.app/images/blog/phone_monitoring.jpg',
     author: {
       '@type': 'Organization',
       name: 'TrackMaster Editorial Team',
@@ -48,7 +48,7 @@ export default function SpecialCombinedDiscountsPage() {
       name: 'TrackMasterTool',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://www.trackmastertool.com/logo.png',
+        url: 'https://trackmastertool.vercel.app/logo.png',
       },
     },
     datePublished: '2026-08-11',
@@ -142,25 +142,25 @@ export default function SpecialCombinedDiscountsPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'Home',
-        item: 'https://www.trackmastertool.com'
+        item: 'https://trackmastertool.vercel.app'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: 'Blog',
-        item: 'https://www.trackmastertool.com/blog'
+        item: 'https://trackmastertool.vercel.app/blog'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: 'Parental Control',
-        item: 'https://www.trackmastertool.com/blog/parental-control'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control'
       },
       {
         '@type': 'ListItem',
         position: 4,
         name: 'Special Combined Discounts',
-        item: 'https://www.trackmastertool.com/blog/parental-control/special-combined-discounts'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control/special-combined-discounts'
       }
     ]
   };

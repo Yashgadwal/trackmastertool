@@ -26,7 +26,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'Best Tracking Software for iPhone – The Ultimate Solution for Monitoring',
   description: 'Compare the best tracking software for iPhone in 2026. Discover how transparent, authorized MDM platforms like TrackMasterTool offer secure, jailbreak-free family monitoring.',
-  canonical: 'https://www.trackmastertool.com/blog/parental-control/best-tracking-software-for-iphone',
+  canonical: 'https://trackmastertool.vercel.app/blog/parental-control/best-tracking-software-for-iphone',
 });
 
 export default function BestIPhoneTrackingSoftwarePage() {
@@ -38,19 +38,19 @@ export default function BestIPhoneTrackingSoftwarePage() {
     author: {
       '@type': 'Organization',
       name: 'TrackMaster Editorial Team',
-      url: 'https://www.trackmastertool.com',
+      url: 'https://trackmastertool.vercel.app',
     },
     publisher: {
       '@type': 'Organization',
       name: 'TrackMasterTool',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://www.trackmastertool.com/logo.png',
+        url: 'https://trackmastertool.vercel.app/logo.png',
       },
     },
     datePublished: '2026-08-11',
     dateModified: '2026-08-11',
-    mainEntityOfPage: 'https://www.trackmastertool.com/blog/parental-control/best-tracking-software-for-iphone',
+    mainEntityOfPage: 'https://trackmastertool.vercel.app/blog/parental-control/best-tracking-software-for-iphone',
   };
 
   const faqSchema = {

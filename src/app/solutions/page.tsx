@@ -6,7 +6,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'Tailored Family Safety Solutions - Age Groups & Devices | TrackMasterTool',
   description: 'Discover specialized TrackMasterTool family safety solutions tailored for parents of teens, young children, Android families, iPhone ecosystems, and multi-device households.',
-  canonical: 'https://www.trackmastertool.com/solutions',
+  canonical: 'https://trackmastertool.vercel.app/solutions',
 });
 
 const solutionCards = [
@@ -126,10 +126,10 @@ export default function AllSolutionsPage() {
       name: 'TrackMasterTool',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://www.trackmastertool.com/logo.png',
+        url: 'https://trackmastertool.vercel.app/logo.png',
       },
     },
-    mainEntityOfPage: 'https://www.trackmastertool.com/solutions',
+    mainEntityOfPage: 'https://trackmastertool.vercel.app/solutions',
   };
 
   return (

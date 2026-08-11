@@ -33,7 +33,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'Looking for TrackMasterTool Cracked Version? The Risks of Free APKs & Keygens',
   description: 'Exposing the critical cybersecurity dangers of searching for TrackMasterTool cracked versions, free APK mods, keygens, and torrent patches. Learn how cracked software bundles RATs, keyloggers, and ransomware.',
-  canonical: 'https://www.trackmastertool.com/blog/parental-control/looking-for-cracked-version-risks',
+  canonical: 'https://trackmastertool.vercel.app/blog/parental-control/looking-for-cracked-version-risks',
 });
 
 export default function LookingForCrackedVersionRisksPage() {
@@ -45,19 +45,19 @@ export default function LookingForCrackedVersionRisksPage() {
     author: {
       '@type': 'Organization',
       name: 'TrackMaster Editorial Team',
-      url: 'https://www.trackmastertool.com',
+      url: 'https://trackmastertool.vercel.app',
     },
     publisher: {
       '@type': 'Organization',
       name: 'TrackMasterTool',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://www.trackmastertool.com/logo.png',
+        url: 'https://trackmastertool.vercel.app/logo.png',
       },
     },
     datePublished: '2026-08-11',
     dateModified: '2026-08-11',
-    mainEntityOfPage: 'https://www.trackmastertool.com/blog/parental-control/looking-for-cracked-version-risks',
+    mainEntityOfPage: 'https://trackmastertool.vercel.app/blog/parental-control/looking-for-cracked-version-risks',
   };
 
   const faqSchema = {

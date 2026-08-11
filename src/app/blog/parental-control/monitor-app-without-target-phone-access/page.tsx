@@ -32,7 +32,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'Monitor App Without Target Phone Access – Does It Really Work in 2026?',
   description: 'Can you monitor a phone without physical access in 2026? Discover the technical reality, debunk remote installation scams, and learn how legitimate parental control works.',
-  canonical: 'https://www.trackmastertool.com/blog/parental-control/monitor-app-without-target-phone-access',
+  canonical: 'https://trackmastertool.vercel.app/blog/parental-control/monitor-app-without-target-phone-access',
 });
 
 export default function MonitorAppWithoutAccessPage() {

@@ -27,7 +27,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: '3 Types of Cyber Stalkers: Spotting Digital Threats & Securing Devices',
   description: 'Understand the three main types of cyberstalkers, federal laws against digital harassment, and key device countermeasures. Learn why consent is vital in parental monitoring.',
-  canonical: 'https://www.trackmastertool.com/blog/parental-control/three-types-of-cyber-stalkers',
+  canonical: 'https://trackmastertool.vercel.app/blog/parental-control/three-types-of-cyber-stalkers',
 });
 
 export default function ThreeTypesOfCyberStalkersPage() {

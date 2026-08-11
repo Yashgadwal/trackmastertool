@@ -26,7 +26,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'Remotely Hack and Track Samsung Galaxy Note 9: Security Dangers & Safe Alternatives',
   description: 'Can you remotely track or hack a Samsung Galaxy Note 9? Discover the dangerous reality of "one-click hack" APKs, security risks, and official consent-based parental control methods.',
-  canonical: 'https://www.trackmastertool.com/blog/parental-control/remotely-hack-track-samsung-galaxy',
+  canonical: 'https://trackmastertool.vercel.app/blog/parental-control/remotely-hack-track-samsung-galaxy',
   ogImage: '/images/blog/phone_monitoring.jpg'
 });
 
@@ -36,7 +36,7 @@ export default function SamsungHackTrackBlogPage() {
     '@type': 'Article',
     headline: 'Remotely Hack and Track Samsung Galaxy Note 9: Security Dangers & Safe Alternatives',
     description: 'A comprehensive security guide on why online "one-click hack" tools and spy APKs for the Samsung Galaxy Note series are dangerous malware, outlining legal boundaries and official parental control methods using TrackMasterTool.',
-    image: 'https://www.trackmastertool.com/images/blog/phone_monitoring.jpg',
+    image: 'https://trackmastertool.vercel.app/images/blog/phone_monitoring.jpg',
     author: {
       '@type': 'Organization',
       name: 'TrackMaster Editorial Team',
@@ -46,7 +46,7 @@ export default function SamsungHackTrackBlogPage() {
       name: 'TrackMasterTool',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://www.trackmastertool.com/logo.png',
+        url: 'https://trackmastertool.vercel.app/logo.png',
       },
     },
     datePublished: '2026-08-11',
@@ -132,25 +132,25 @@ export default function SamsungHackTrackBlogPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'Home',
-        item: 'https://www.trackmastertool.com'
+        item: 'https://trackmastertool.vercel.app'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: 'Blog',
-        item: 'https://www.trackmastertool.com/blog'
+        item: 'https://trackmastertool.vercel.app/blog'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: 'Android Safety',
-        item: 'https://www.trackmastertool.com/blog/parental-control'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control'
       },
       {
         '@type': 'ListItem',
         position: 4,
         name: 'Remotely Hack & Track Samsung Note 9',
-        item: 'https://www.trackmastertool.com/blog/parental-control/remotely-hack-track-samsung-galaxy'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control/remotely-hack-track-samsung-galaxy'
       }
     ]
   };

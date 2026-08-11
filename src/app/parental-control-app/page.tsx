@@ -5,7 +5,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'Parental Control App for Android & iPhone',
   description: 'TrackMasterTool is the leading transparent parental control app. Manage screen time, app usage, GPS location sharing, and web safety easily.',
-  canonical: 'https://www.trackmastertool.com/parental-control-app',
+  canonical: 'https://trackmastertool.vercel.app/parental-control-app',
 });
 
 export default function ParentalControlAppPage() {

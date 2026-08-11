@@ -5,7 +5,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'Family Location Tracker & Geofencing App',
   description: 'Real-time GPS family location sharing with custom geofence safe zone alerts. Stay connected with authorized family location updates.',
-  canonical: 'https://www.trackmastertool.com/family-location-tracker',
+  canonical: 'https://trackmastertool.vercel.app/family-location-tracker',
 });
 
 export default function FamilyLocationTrackerPage() {

@@ -25,7 +25,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: "Can You Track Someone's Movements Without Them Knowing? (2026)",
   description: "Learn the legal & technical limits of secret tracking, anti-stalking alerts in physical tags, OS background location prompts, and transparent family GPS safety.",
-  canonical: 'https://www.trackmastertool.com/blog/parental-control/can-you-track-someones-movements-without-knowing',
+  canonical: 'https://trackmastertool.vercel.app/blog/parental-control/can-you-track-someones-movements-without-knowing',
 });
 
 export default function CanYouTrackMovementsWithoutKnowingBlogPage() {
@@ -34,7 +34,7 @@ export default function CanYouTrackMovementsWithoutKnowingBlogPage() {
     '@type': 'Article',
     headline: "Can You Track Someone's Movements Without Them Knowing? Legal Truths & Safe GPS Alternatives",
     description: 'An educational guide examining the legal, ethical, and technical realities of secret location tracking, warning against spyware scams, and demonstrating the value of transparent, consent-based family safety platforms.',
-    image: 'https://www.trackmastertool.com/images/blog/phone_monitoring.jpg',
+    image: 'https://trackmastertool.vercel.app/images/blog/phone_monitoring.jpg',
     author: {
       '@type': 'Organization',
       name: 'TrackMaster Editorial Team',
@@ -44,7 +44,7 @@ export default function CanYouTrackMovementsWithoutKnowingBlogPage() {
       name: 'TrackMasterTool',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://www.trackmastertool.com/logo.png',
+        url: 'https://trackmastertool.vercel.app/logo.png',
       },
     },
     datePublished: '2026-08-11',
@@ -130,25 +130,25 @@ export default function CanYouTrackMovementsWithoutKnowingBlogPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'Home',
-        item: 'https://www.trackmastertool.com'
+        item: 'https://trackmastertool.vercel.app'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: 'Blog',
-        item: 'https://www.trackmastertool.com/blog'
+        item: 'https://trackmastertool.vercel.app/blog'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: 'Parental Control',
-        item: 'https://www.trackmastertool.com/blog/parental-control'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control'
       },
       {
         '@type': 'ListItem',
         position: 4,
         name: "Tracking Movements Without Knowing Guide",
-        item: 'https://www.trackmastertool.com/blog/parental-control/can-you-track-someones-movements-without-knowing'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control/can-you-track-someones-movements-without-knowing'
       }
     ]
   };

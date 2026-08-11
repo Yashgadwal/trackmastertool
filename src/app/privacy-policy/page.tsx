@@ -4,7 +4,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'Privacy Policy - TrackMasterTool',
   description: 'TrackMasterTool Privacy Policy. How we collect, encrypt, and protect your family data in accordance with international privacy laws.',
-  canonical: 'https://www.trackmastertool.com/privacy-policy',
+  canonical: 'https://trackmastertool.vercel.app/privacy-policy',
 });
 
 export default function PrivacyPolicyPage() {

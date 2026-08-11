@@ -25,7 +25,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'How to Monitor Your Child’s Facebook Account Safely: 2026 Guide',
   description: 'Learn how to protect your child on Facebook and Messenger. Explore native safety settings, understand the legal risks of stalkerware, and set healthy screen time limits with TrackMasterTool.',
-  canonical: 'https://www.trackmastertool.com/blog/parental-control/how-to-monitor-childs-facebook',
+  canonical: 'https://trackmastertool.vercel.app/blog/parental-control/how-to-monitor-childs-facebook',
 });
 
 export default function ChildFacebookMonitoringGuidePage() {
@@ -34,7 +34,7 @@ export default function ChildFacebookMonitoringGuidePage() {
     '@type': 'Article',
     headline: 'How to Monitor Your Child’s Facebook Account Safely & Legally: 2026 Guide',
     description: 'A comprehensive, search-engine-optimized guide for parents on managing teenage Facebook usage, configuring native privacy controls, avoiding dangerous spy apps, and establishing screen time balances with TrackMasterTool.',
-    image: 'https://www.trackmastertool.com/images/blog/phone_monitoring.jpg',
+    image: 'https://trackmastertool.vercel.app/images/blog/phone_monitoring.jpg',
     author: {
       '@type': 'Organization',
       name: 'TrackMaster Editorial Team',
@@ -44,7 +44,7 @@ export default function ChildFacebookMonitoringGuidePage() {
       name: 'TrackMasterTool',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://www.trackmastertool.com/logo.png',
+        url: 'https://trackmastertool.vercel.app/logo.png',
       },
     },
     datePublished: '2026-08-11',
@@ -138,25 +138,25 @@ export default function ChildFacebookMonitoringGuidePage() {
         '@type': 'ListItem',
         position: 1,
         name: 'Home',
-        item: 'https://www.trackmastertool.com'
+        item: 'https://trackmastertool.vercel.app'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: 'Blog',
-        item: 'https://www.trackmastertool.com/blog'
+        item: 'https://trackmastertool.vercel.app/blog'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: 'Parental Control',
-        item: 'https://www.trackmastertool.com/blog/parental-control'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control'
       },
       {
         '@type': 'ListItem',
         position: 4,
         name: 'Monitor Child’s Facebook Safely',
-        item: 'https://www.trackmastertool.com/blog/parental-control/how-to-monitor-childs-facebook'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control/how-to-monitor-childs-facebook'
       }
     ]
   };

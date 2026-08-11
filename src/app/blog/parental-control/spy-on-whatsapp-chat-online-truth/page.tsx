@@ -37,7 +37,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: "How to Spy on WhatsApp Chat Online: The Dangerous Truth & Legal Family Safety Solutions",
   description: "Can you spy on WhatsApp chats online with just a phone number? Read our in-depth cybersecurity review exposing spy portal scams, E2EE, sandboxing, and legal parental control alternatives.",
-  canonical: "https://www.trackmastertool.com/blog/parental-control/spy-on-whatsapp-chat-online-truth",
+  canonical: "https://trackmastertool.vercel.app/blog/parental-control/spy-on-whatsapp-chat-online-truth",
 });
 
 export default function SpyOnWhatsAppChatOnlineTruthPage() {

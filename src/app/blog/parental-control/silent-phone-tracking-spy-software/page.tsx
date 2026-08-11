@@ -24,7 +24,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'Silent Phone Tracking – Best Spy Software for Android & iOS: Truth & Safety Guide',
   description: 'Understand the legal risks and technical limitations of silent phone spy software on Android & iOS. Discover TrackMasterTool’s secure, consent-based alternative.',
-  canonical: 'https://www.trackmastertool.com/blog/parental-control/silent-phone-tracking-spy-software',
+  canonical: 'https://trackmastertool.vercel.app/blog/parental-control/silent-phone-tracking-spy-software',
 });
 
 export default function SilentPhoneTrackingBlogPage() {
@@ -33,7 +33,7 @@ export default function SilentPhoneTrackingBlogPage() {
     '@type': 'Article',
     headline: 'Silent Phone Tracking – Best Spy Software for Android & iOS: Truth, Risks, & Safe Alternatives',
     description: 'A comprehensive, cybersecurity-focused guide addressing the myths, technical realities, and legal consequences of silent phone tracking software, while introducing transparent parental controls.',
-    image: 'https://www.trackmastertool.com/images/blog/phone_monitoring.jpg',
+    image: 'https://trackmastertool.vercel.app/images/blog/phone_monitoring.jpg',
     author: {
       '@type': 'Organization',
       name: 'TrackMaster Editorial Team',
@@ -43,7 +43,7 @@ export default function SilentPhoneTrackingBlogPage() {
       name: 'TrackMasterTool',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://www.trackmastertool.com/logo.png',
+        url: 'https://trackmastertool.vercel.app/logo.png',
       },
     },
     datePublished: '2026-08-11',
@@ -137,25 +137,25 @@ export default function SilentPhoneTrackingBlogPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'Home',
-        item: 'https://www.trackmastertool.com'
+        item: 'https://trackmastertool.vercel.app'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: 'Blog',
-        item: 'https://www.trackmastertool.com/blog'
+        item: 'https://trackmastertool.vercel.app/blog'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: 'Parental Control',
-        item: 'https://www.trackmastertool.com/blog/parental-control'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control'
       },
       {
         '@type': 'ListItem',
         position: 4,
         name: 'Silent Phone Tracking Guide',
-        item: 'https://www.trackmastertool.com/blog/parental-control/silent-phone-tracking-spy-software'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control/silent-phone-tracking-spy-software'
       }
     ]
   };

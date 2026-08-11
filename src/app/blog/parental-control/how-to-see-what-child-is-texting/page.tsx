@@ -24,7 +24,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'How Can I See What My Child Is Texting? Safe & Legal Guide for Parents',
   description: 'Learn how to monitor your child’s text messages transparently, manage screen time, set up keyword alerts, and protect them from cyberbullying without violating trust.',
-  canonical: 'https://www.trackmastertool.com/blog/parental-control/how-to-see-what-child-is-texting',
+  canonical: 'https://trackmastertool.vercel.app/blog/parental-control/how-to-see-what-child-is-texting',
 });
 
 export default function SeeWhatChildIsTextingPage() {
@@ -33,7 +33,7 @@ export default function SeeWhatChildIsTextingPage() {
     '@type': 'Article',
     headline: 'How Can I See What My Child Is Texting? Safe & Legal Guide for Parents',
     description: 'A comprehensive, search-engine-optimized guide for parents looking to supervise child messaging activity safely and transparently on iOS and Android devices using built-in controls and TrackMasterTool.',
-    image: 'https://www.trackmastertool.com/images/blog/phone_monitoring.jpg',
+    image: 'https://trackmastertool.vercel.app/images/blog/phone_monitoring.jpg',
     author: {
       '@type': 'Organization',
       name: 'TrackMaster Editorial Team',
@@ -43,7 +43,7 @@ export default function SeeWhatChildIsTextingPage() {
       name: 'TrackMasterTool',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://www.trackmastertool.com/logo.png',
+        url: 'https://trackmastertool.vercel.app/logo.png',
       },
     },
     datePublished: '2026-08-11',
@@ -137,25 +137,25 @@ export default function SeeWhatChildIsTextingPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'Home',
-        item: 'https://www.trackmastertool.com'
+        item: 'https://trackmastertool.vercel.app'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: 'Blog',
-        item: 'https://www.trackmastertool.com/blog'
+        item: 'https://trackmastertool.vercel.app/blog'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: 'Parental Control',
-        item: 'https://www.trackmastertool.com/blog/parental-control'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control'
       },
       {
         '@type': 'ListItem',
         position: 4,
         name: 'How to See Child Text Messages',
-        item: 'https://www.trackmastertool.com/blog/parental-control/how-to-see-what-child-is-texting'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control/how-to-see-what-child-is-texting'
       }
     ]
   };

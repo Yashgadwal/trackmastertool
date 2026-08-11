@@ -27,7 +27,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'Fraud Alert: WhatsApp Hacking New Tricks – Stay Safe from Cybercriminals!',
   description: 'Learn the latest WhatsApp hacking methods like QRLjacking, verification code scams, and session hijacking. Secure your account and discover transparent family monitoring solutions.',
-  canonical: 'https://www.trackmastertool.com/blog/parental-control/whatsapp-hacking-tricks-fraud-alert',
+  canonical: 'https://trackmastertool.vercel.app/blog/parental-control/whatsapp-hacking-tricks-fraud-alert',
 });
 
 export default function WhatsappHackingTricksPage() {
@@ -36,7 +36,7 @@ export default function WhatsappHackingTricksPage() {
     '@type': 'Article',
     headline: 'Fraud Alert: WhatsApp Hacking New Tricks – Stay Safe from Cybercriminals!',
     description: 'A cybersecurity guide on current WhatsApp hacking methods, how to secure your device, and separating illegal stalkerware from transparent, consent-based parental monitoring.',
-    image: 'https://www.trackmastertool.com/images/blog/phone_monitoring.jpg',
+    image: 'https://trackmastertool.vercel.app/images/blog/phone_monitoring.jpg',
     author: {
       '@type': 'Organization',
       name: 'TrackMaster Editorial Team',
@@ -46,7 +46,7 @@ export default function WhatsappHackingTricksPage() {
       name: 'TrackMasterTool',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://www.trackmastertool.com/logo.png',
+        url: 'https://trackmastertool.vercel.app/logo.png',
       },
     },
     datePublished: '2026-08-11',
@@ -132,25 +132,25 @@ export default function WhatsappHackingTricksPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'Home',
-        item: 'https://www.trackmastertool.com'
+        item: 'https://trackmastertool.vercel.app'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: 'Blog',
-        item: 'https://www.trackmastertool.com/blog'
+        item: 'https://trackmastertool.vercel.app/blog'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: 'Parental Control',
-        item: 'https://www.trackmastertool.com/blog/parental-control'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control'
       },
       {
         '@type': 'ListItem',
         position: 4,
         name: 'WhatsApp Hacking Tricks Fraud Alert',
-        item: 'https://www.trackmastertool.com/blog/parental-control/whatsapp-hacking-tricks-fraud-alert'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control/whatsapp-hacking-tricks-fraud-alert'
       }
     ]
   };

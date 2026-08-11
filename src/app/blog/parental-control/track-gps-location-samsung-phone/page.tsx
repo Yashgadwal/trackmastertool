@@ -32,7 +32,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'How to Track GPS Location of a Samsung Phone: Legal & Consent-Based Guide',
   description: 'Discover how to legally track the GPS location of a Samsung phone. Configure SmartThings Find, Google Maps, and TrackMasterTool with step-by-step One UI troubleshooting.',
-  canonical: 'https://www.trackmastertool.com/blog/parental-control/track-gps-location-samsung-phone',
+  canonical: 'https://trackmastertool.vercel.app/blog/parental-control/track-gps-location-samsung-phone',
   ogImage: '/images/blog/phone_monitoring.jpg'
 });
 
@@ -42,7 +42,7 @@ export default function TrackGpsLocationSamsungPhonePage() {
     '@type': 'Article',
     headline: 'How to Track GPS Location of Someone Through Samsung Phone? Complete Legal & Technical Setup Guide',
     description: 'An authoritative security and technical guide detailing how to track the GPS location of a Samsung phone legally using SmartThings Find, Google Maps sharing, and TrackMasterTool. Includes battery saver troubleshooting.',
-    image: 'https://www.trackmastertool.com/images/blog/phone_monitoring.jpg',
+    image: 'https://trackmastertool.vercel.app/images/blog/phone_monitoring.jpg',
     author: {
       '@type': 'Organization',
       name: 'TrackMaster Editorial Team',
@@ -52,12 +52,12 @@ export default function TrackGpsLocationSamsungPhonePage() {
       name: 'TrackMasterTool',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://www.trackmastertool.com/logo.png',
+        url: 'https://trackmastertool.vercel.app/logo.png',
       },
     },
     datePublished: '2026-08-11',
     dateModified: '2026-08-11',
-    mainEntityOfPage: 'https://www.trackmastertool.com/blog/parental-control/track-gps-location-samsung-phone',
+    mainEntityOfPage: 'https://trackmastertool.vercel.app/blog/parental-control/track-gps-location-samsung-phone',
   };
 
   const faqSchema = {
@@ -139,25 +139,25 @@ export default function TrackGpsLocationSamsungPhonePage() {
         '@type': 'ListItem',
         position: 1,
         name: 'Home',
-        item: 'https://www.trackmastertool.com'
+        item: 'https://trackmastertool.vercel.app'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: 'Blog',
-        item: 'https://www.trackmastertool.com/blog'
+        item: 'https://trackmastertool.vercel.app/blog'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: 'Parental Control',
-        item: 'https://www.trackmastertool.com/blog/parental-control'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control'
       },
       {
         '@type': 'ListItem',
         position: 4,
         name: 'Track GPS Location Samsung Phone',
-        item: 'https://www.trackmastertool.com/blog/parental-control/track-gps-location-samsung-phone'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control/track-gps-location-samsung-phone'
       }
     ]
   };

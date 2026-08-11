@@ -24,7 +24,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'How to Track Google Chat (Hangouts) Safely: Legal vs. Secret Spying',
   description: 'Google Hangouts is now Google Chat. Learn how to configure legal, transparent parental controls, identify malicious spy software scams, and protect children’s safety.',
-  canonical: 'https://www.trackmastertool.com/blog/parental-control/track-google-chat-hangouts',
+  canonical: 'https://trackmastertool.vercel.app/blog/parental-control/track-google-chat-hangouts',
   ogImage: '/images/blog/phone_monitoring.jpg'
 });
 
@@ -34,7 +34,7 @@ export default function TrackGoogleChatPage() {
     '@type': 'Article',
     headline: 'How to Track Google Chat (Hangouts) Safely: A Complete Guide on Legal Parental Supervision vs. Spyware Scams',
     description: 'An in-depth guide explaining the transition from Google Hangouts to Google Chat, debunking the myth of secret monitoring, exposing Trojan malware spyware scams, and configuring transparent parental controls.',
-    image: 'https://www.trackmastertool.com/images/blog/phone_monitoring.jpg',
+    image: 'https://trackmastertool.vercel.app/images/blog/phone_monitoring.jpg',
     author: {
       '@type': 'Organization',
       name: 'TrackMaster Editorial Team',
@@ -44,7 +44,7 @@ export default function TrackGoogleChatPage() {
       name: 'TrackMasterTool',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://www.trackmastertool.com/logo.png',
+        url: 'https://trackmastertool.vercel.app/logo.png',
       },
     },
     datePublished: '2026-08-11',
@@ -130,25 +130,25 @@ export default function TrackGoogleChatPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'Home',
-        item: 'https://www.trackmastertool.com'
+        item: 'https://trackmastertool.vercel.app'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: 'Blog',
-        item: 'https://www.trackmastertool.com/blog'
+        item: 'https://trackmastertool.vercel.app/blog'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: 'Parental Control',
-        item: 'https://www.trackmastertool.com/blog/parental-control'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control'
       },
       {
         '@type': 'ListItem',
         position: 4,
         name: 'Track Google Chat & Hangouts Safety Guide',
-        item: 'https://www.trackmastertool.com/blog/parental-control/track-google-chat-hangouts'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control/track-google-chat-hangouts'
       }
     ]
   };

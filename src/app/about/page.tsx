@@ -5,7 +5,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'About Us - TrackMasterTool Responsible Family Safety',
   description: 'Learn about TrackMasterTool philosophy: transparent parental supervision, responsible technology, and digital wellbeing.',
-  canonical: 'https://www.trackmastertool.com/about',
+  canonical: 'https://trackmastertool.vercel.app/about',
 });
 
 export default function AboutPage() {

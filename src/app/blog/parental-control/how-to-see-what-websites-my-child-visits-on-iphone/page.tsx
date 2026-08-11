@@ -22,7 +22,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'How to See What Websites My Child Visits on iPhone (5 Easy Methods)',
   description: 'Complete 2000+ word parent guide to checking, filtering, and supervising web browsing history on iPhone and iPad across Safari, Chrome, and Private Browsing modes.',
-  canonical: 'https://www.trackmastertool.com/blog/parental-control/how-to-see-what-websites-my-child-visits-on-iphone',
+  canonical: 'https://trackmastertool.vercel.app/blog/parental-control/how-to-see-what-websites-my-child-visits-on-iphone',
 });
 
 export default function iPhoneWebHistoryGuidePage() {
@@ -34,19 +34,19 @@ export default function iPhoneWebHistoryGuidePage() {
     author: {
       '@type': 'Organization',
       name: 'TrackMaster Editorial Team',
-      url: 'https://www.trackmastertool.com',
+      url: 'https://trackmastertool.vercel.app',
     },
     publisher: {
       '@type': 'Organization',
       name: 'TrackMasterTool',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://www.trackmastertool.com/logo.png',
+        url: 'https://trackmastertool.vercel.app/logo.png',
       },
     },
     datePublished: '2026-08-10',
     dateModified: '2026-08-10',
-    mainEntityOfPage: 'https://www.trackmastertool.com/blog/parental-control/how-to-see-what-websites-my-child-visits-on-iphone',
+    mainEntityOfPage: 'https://trackmastertool.vercel.app/blog/parental-control/how-to-see-what-websites-my-child-visits-on-iphone',
   };
 
   const faqSchema = {

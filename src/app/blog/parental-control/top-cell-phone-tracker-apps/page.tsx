@@ -39,7 +39,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'Top 3 Cell Phone Tracker Apps of 2026: Features, Scams & Family Safety',
   description: 'Discover the top 3 cell phone tracker apps for 2026. Compare real-time GPS features, pricing, and safety. Learn why consent-based family trackers win over illegal stalkerware scams.',
-  canonical: 'https://www.trackmastertool.com/blog/parental-control/top-cell-phone-tracker-apps',
+  canonical: 'https://trackmastertool.vercel.app/blog/parental-control/top-cell-phone-tracker-apps',
 });
 
 export default function TopCellPhoneTrackerAppsPage() {
@@ -51,19 +51,19 @@ export default function TopCellPhoneTrackerAppsPage() {
     author: {
       '@type': 'Organization',
       name: 'TrackMaster Editorial Team',
-      url: 'https://www.trackmastertool.com',
+      url: 'https://trackmastertool.vercel.app',
     },
     publisher: {
       '@type': 'Organization',
       name: 'TrackMasterTool',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://www.trackmastertool.com/logo.png',
+        url: 'https://trackmastertool.vercel.app/logo.png',
       },
     },
     datePublished: '2026-08-11',
     dateModified: '2026-08-11',
-    mainEntityOfPage: 'https://www.trackmastertool.com/blog/parental-control/top-cell-phone-tracker-apps',
+    mainEntityOfPage: 'https://trackmastertool.vercel.app/blog/parental-control/top-cell-phone-tracker-apps',
   };
 
   const jsonLdFaq = {

@@ -27,7 +27,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'Check & Stop Cyber-Bullying Using TrackMasterTool',
   description: 'In-depth guide for parents to identify and prevent teen cyberbullying on Instagram, Snapchat, WhatsApp, and Discord. Learn how to configure screen limits, bedtime lockouts, and keyword alerts.',
-  canonical: 'https://www.trackmastertool.com/blog/parental-control/prevent-teen-cyber-bullying',
+  canonical: 'https://trackmastertool.vercel.app/blog/parental-control/prevent-teen-cyber-bullying',
   ogImage: '/images/blog/tiktok_controls.jpg',
 });
 
@@ -37,7 +37,7 @@ export default function PreventTeenCyberBullyingPage() {
     '@type': 'Article',
     headline: 'Check & Stop Cyber-Bullying Using TrackMasterTool: The Complete Parental Guide',
     description: 'A comprehensive, educational guide for parents to identify, prevent, and stop cyberbullying on messaging and social media apps. Explains screen time budgets, bedtime lockouts, keyword alert rules, and transparent family trust agreements.',
-    image: 'https://www.trackmastertool.com/images/blog/tiktok_controls.jpg',
+    image: 'https://trackmastertool.vercel.app/images/blog/tiktok_controls.jpg',
     author: {
       '@type': 'Organization',
       name: 'TrackMaster Editorial Team',
@@ -47,7 +47,7 @@ export default function PreventTeenCyberBullyingPage() {
       name: 'TrackMasterTool',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://www.trackmastertool.com/logo.png',
+        url: 'https://trackmastertool.vercel.app/logo.png',
       },
     },
     datePublished: '2026-08-11',
@@ -141,25 +141,25 @@ export default function PreventTeenCyberBullyingPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'Home',
-        item: 'https://www.trackmastertool.com'
+        item: 'https://trackmastertool.vercel.app'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: 'Blog',
-        item: 'https://www.trackmastertool.com/blog'
+        item: 'https://trackmastertool.vercel.app/blog'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: 'Parental Control',
-        item: 'https://www.trackmastertool.com/blog/parental-control'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control'
       },
       {
         '@type': 'ListItem',
         position: 4,
         name: 'Prevent Teen Cyber-Bullying',
-        item: 'https://www.trackmastertool.com/blog/parental-control/prevent-teen-cyber-bullying'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control/prevent-teen-cyber-bullying'
       }
     ]
   };

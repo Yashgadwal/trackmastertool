@@ -32,7 +32,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: "How Can I Monitor My Child's Phone Activity? A Practical Guide for Modern Parents (2026)",
   description: "Comprehensive guide for parents on how to transparently monitor child phone activity, manage screen time, block web hazards, track GPS location, and foster digital trust with TrackMasterTool.",
-  canonical: "https://www.trackmastertool.com/blog/parental-control/how-can-i-monitor-my-childs-phone-activity",
+  canonical: "https://trackmastertool.vercel.app/blog/parental-control/how-can-i-monitor-my-childs-phone-activity",
 });
 
 export default function ChildPhoneMonitoringGuidePage() {
@@ -50,12 +50,12 @@ export default function ChildPhoneMonitoringGuidePage() {
       "name": "TrackMasterTool",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://www.trackmastertool.com/logo.png"
+        "url": "https://trackmastertool.vercel.app/logo.png"
       }
     },
     "datePublished": "2026-08-10",
     "dateModified": "2026-08-10",
-    "mainEntityOfPage": "https://www.trackmastertool.com/blog/parental-control/how-can-i-monitor-my-childs-phone-activity"
+    "mainEntityOfPage": "https://trackmastertool.vercel.app/blog/parental-control/how-can-i-monitor-my-childs-phone-activity"
   };
 
   const faqSchemaData = {

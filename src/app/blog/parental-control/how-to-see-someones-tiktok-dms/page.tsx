@@ -35,7 +35,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: "How to See Someone's TikTok DMs: Complete Parents Guide (2026)",
   description: "Learn how parents can supervise TikTok direct messaging, configure native TikTok Family Pairing, set screen time rules, and keep teens safe with TrackMasterTool.",
-  canonical: "https://www.trackmastertool.com/blog/parental-control/how-to-see-someones-tiktok-dms",
+  canonical: "https://trackmastertool.vercel.app/blog/parental-control/how-to-see-someones-tiktok-dms",
 });
 
 export default function HowToSeeTikTokDMsPage() {
@@ -47,19 +47,19 @@ export default function HowToSeeTikTokDMsPage() {
     author: {
       '@type': 'Organization',
       name: 'TrackMaster Editorial Team',
-      url: 'https://www.trackmastertool.com',
+      url: 'https://trackmastertool.vercel.app',
     },
     publisher: {
       '@type': 'Organization',
       name: 'TrackMasterTool',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://www.trackmastertool.com/logo.png',
+        url: 'https://trackmastertool.vercel.app/logo.png',
       },
     },
     datePublished: '2026-08-10',
     dateModified: '2026-08-10',
-    mainEntityOfPage: 'https://www.trackmastertool.com/blog/parental-control/how-to-see-someones-tiktok-dms',
+    mainEntityOfPage: 'https://trackmastertool.vercel.app/blog/parental-control/how-to-see-someones-tiktok-dms',
   };
 
   const jsonLdFaq = {

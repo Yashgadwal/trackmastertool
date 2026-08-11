@@ -34,7 +34,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: "Do You Know How to Check Someone’s Text Messages Online? The Truth",
   description: "Exposing the myth of online text interception portals. Read our expert cybersecurity guide on why secret remote SMS tracking fails, how OS sandboxing works, and transparent parental alternatives.",
-  canonical: "https://www.trackmastertool.com/blog/parental-control/check-text-messages-online-truth",
+  canonical: "https://trackmastertool.vercel.app/blog/parental-control/check-text-messages-online-truth",
 });
 
 export default function CheckTextMessagesOnlineTruthPage() {

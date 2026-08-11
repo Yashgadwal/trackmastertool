@@ -22,7 +22,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'How to Track My Kids Location on iPhone & Stay Alert',
   description: 'Complete 2000+ word parent guide to iOS location tracking. Learn to set up Apple Find My, Family Sharing, and TrackMasterTool custom polygonal geofencing with real-time alerts.',
-  canonical: 'https://www.trackmastertool.com/blog/parental-control/how-to-track-kids-location-on-iphone',
+  canonical: 'https://trackmastertool.vercel.app/blog/parental-control/how-to-track-kids-location-on-iphone',
 });
 
 export default function TrackKidsLocationOnIPhoneGuidePage() {
@@ -34,19 +34,19 @@ export default function TrackKidsLocationOnIPhoneGuidePage() {
     author: {
       '@type': 'Organization',
       name: 'TrackMaster Editorial Team',
-      url: 'https://www.trackmastertool.com',
+      url: 'https://trackmastertool.vercel.app',
     },
     publisher: {
       '@type': 'Organization',
       name: 'TrackMasterTool',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://www.trackmastertool.com/logo.png',
+        url: 'https://trackmastertool.vercel.app/logo.png',
       },
     },
     datePublished: '2026-08-11',
     dateModified: '2026-08-11',
-    mainEntityOfPage: 'https://www.trackmastertool.com/blog/parental-control/how-to-track-kids-location-on-iphone',
+    mainEntityOfPage: 'https://trackmastertool.vercel.app/blog/parental-control/how-to-track-kids-location-on-iphone',
   };
 
   const faqSchema = {

@@ -9,7 +9,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'How to Track a Mobile Phone Location: Legal & Safe Alternatives (2026)',
   description: 'Looking to track a phone location without them knowing? Learn why secret tracking is a security myth, discover the legal risks of stalkerware, and find out how to use TrackMasterTool for safe, consent-based family location sharing.',
-  canonical: 'https://www.trackmastertool.com/blog/parental-control/how-to-track-mobile-phone-location-without-knowing',
+  canonical: 'https://trackmastertool.vercel.app/blog/parental-control/how-to-track-mobile-phone-location-without-knowing',
 });
 
 export default function HowToTrackMobilePhoneLocationWithoutKnowingPage() {

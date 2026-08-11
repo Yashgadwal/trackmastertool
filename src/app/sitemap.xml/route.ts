@@ -4,7 +4,7 @@ export async function GET(request: NextRequest) {
   // Dynamically resolve base URL to match the exact protocol and host of the incoming request.
   // This completely resolves Google Search Console "URL not allowed" errors across www, non-www, and deployment domains.
   const forwardedHost = request.headers.get('x-forwarded-host');
-  const host = forwardedHost || request.headers.get('host') || 'www.trackmastertool.com';
+  const host = forwardedHost || request.headers.get('host') || 'trackmastertool.vercel.app';
   const forwardedProto = request.headers.get('x-forwarded-proto');
   const proto = forwardedProto || (host.includes('localhost') ? 'http' : 'https');
   const baseUrl = `${proto}://${host}`;

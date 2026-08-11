@@ -32,7 +32,7 @@ export default function ContactPage() {
                   <Mail className="w-4 h-4 text-purple-400 mt-0.5" />
                   <div>
                     <div className="font-semibold text-slate-200">Email Support</div>
-                    <div className="text-slate-400">support@trackmastertool.com</div>
+                    <div className="text-slate-400">support@trackmastertool.vercel.app</div>
                   </div>
                 </div>
 

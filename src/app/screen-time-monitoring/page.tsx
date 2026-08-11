@@ -5,7 +5,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'Screen Time Monitoring & App Limits for Parents',
   description: 'Manage child screen time, schedule bedtime downtimes, and encourage healthy digital habits with TrackMasterTool.',
-  canonical: 'https://www.trackmastertool.com/screen-time-monitoring',
+  canonical: 'https://trackmastertool.vercel.app/screen-time-monitoring',
 });
 
 export default function ScreenTimeMonitoringPage() {

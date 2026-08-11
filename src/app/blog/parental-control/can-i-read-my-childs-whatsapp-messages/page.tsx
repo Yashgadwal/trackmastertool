@@ -30,7 +30,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: "Can I Read My Child's WhatsApp Messages Without Them Knowing?",
   description: "Discover the truth about secret WhatsApp spying, why covert stalkerware backfires on family trust, and how transparent parental controls like TrackMasterTool protect your child safely.",
-  canonical: "https://www.trackmastertool.com/blog/parental-control/can-i-read-my-childs-whatsapp-messages",
+  canonical: "https://trackmastertool.vercel.app/blog/parental-control/can-i-read-my-childs-whatsapp-messages",
 });
 
 export default function CanIReadChildWhatsappMessagesPage() {

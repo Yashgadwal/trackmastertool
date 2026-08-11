@@ -27,7 +27,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'Top Phone Monitoring Apps That Actually Work in 2026 – Updated Guide',
   description: 'Compare the best phone monitoring apps of 2026. Explore transparent family control features vs. hidden spy apps, legal requirements, and security risks.',
-  canonical: 'https://www.trackmastertool.com/blog/parental-control/top-phone-monitoring-apps-2026',
+  canonical: 'https://trackmastertool.vercel.app/blog/parental-control/top-phone-monitoring-apps-2026',
 });
 
 export default function TopPhoneMonitoringApps2026Page() {
@@ -36,7 +36,7 @@ export default function TopPhoneMonitoringApps2026Page() {
     '@type': 'Article',
     headline: 'Top Phone Monitoring Apps That Actually Work in 2026 – Updated Guide',
     description: 'A comprehensive, search-engine-optimized guide comparing the top phone monitoring and parental control applications of 2026, analyzing feature sets, safety profiles, transparency, and the critical differences between ethical family tools and illegal stalkerware.',
-    image: 'https://www.trackmastertool.com/images/blog/phone_monitoring.jpg',
+    image: 'https://trackmastertool.vercel.app/images/blog/phone_monitoring.jpg',
     author: {
       '@type': 'Organization',
       name: 'TrackMaster Editorial Team',
@@ -46,7 +46,7 @@ export default function TopPhoneMonitoringApps2026Page() {
       name: 'TrackMasterTool',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://www.trackmastertool.com/logo.png',
+        url: 'https://trackmastertool.vercel.app/logo.png',
       },
     },
     datePublished: '2026-08-11',
@@ -132,25 +132,25 @@ export default function TopPhoneMonitoringApps2026Page() {
         '@type': 'ListItem',
         position: 1,
         name: 'Home',
-        item: 'https://www.trackmastertool.com'
+        item: 'https://trackmastertool.vercel.app'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: 'Blog',
-        item: 'https://www.trackmastertool.com/blog'
+        item: 'https://trackmastertool.vercel.app/blog'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: 'Parental Apps',
-        item: 'https://www.trackmastertool.com/blog/parental-control'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control'
       },
       {
         '@type': 'ListItem',
         position: 4,
         name: 'Top Phone Monitoring Apps 2026',
-        item: 'https://www.trackmastertool.com/blog/parental-control/top-phone-monitoring-apps-2026'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control/top-phone-monitoring-apps-2026'
       }
     ]
   };

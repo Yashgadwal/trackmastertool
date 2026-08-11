@@ -6,7 +6,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'Help Center & Knowledge Base - TrackMasterTool',
   description: 'Searchable help guides, device onboarding instructions, billing FAQs, and troubleshooting for TrackMasterTool.',
-  canonical: 'https://www.trackmastertool.com/help',
+  canonical: 'https://trackmastertool.vercel.app/help',
 });
 
 export default function HelpCenterPage() {

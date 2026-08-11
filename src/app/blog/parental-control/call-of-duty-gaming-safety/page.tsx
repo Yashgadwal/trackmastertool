@@ -24,7 +24,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'Beware Parents! Here’s How Call of Duty is Playing With Minds of Kids',
   description: 'Learn the real psychological and safety risks of Call of Duty (CoD) for kids. Discover toxic voice chat, EOMM loops, microtransactions, and setting healthy limits with TrackMasterTool.',
-  canonical: 'https://www.trackmastertool.com/blog/parental-control/call-of-duty-gaming-safety',
+  canonical: 'https://trackmastertool.vercel.app/blog/parental-control/call-of-duty-gaming-safety',
 });
 
 export default function CallOfDutySafetyPage() {
@@ -33,7 +33,7 @@ export default function CallOfDutySafetyPage() {
     '@type': 'Article',
     headline: 'Beware Parents! Here’s How Call of Duty is Playing With Minds of Kids',
     description: 'A comprehensive educational guide for parents on the mental and safety risks of Call of Duty, multiplayer shooters, EOMM dopamine loops, toxic lobbies, and using TrackMasterTool for healthy boundaries.',
-    image: 'https://www.trackmastertool.com/images/blog/iphone_filtering.jpg',
+    image: 'https://trackmastertool.vercel.app/images/blog/iphone_filtering.jpg',
     author: {
       '@type': 'Organization',
       name: 'TrackMaster Editorial Team',
@@ -43,7 +43,7 @@ export default function CallOfDutySafetyPage() {
       name: 'TrackMasterTool',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://www.trackmastertool.com/logo.png',
+        url: 'https://trackmastertool.vercel.app/logo.png',
       },
     },
     datePublished: '2026-08-11',
@@ -137,25 +137,25 @@ export default function CallOfDutySafetyPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'Home',
-        item: 'https://www.trackmastertool.com'
+        item: 'https://trackmastertool.vercel.app'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: 'Blog',
-        item: 'https://www.trackmastertool.com/blog'
+        item: 'https://trackmastertool.vercel.app/blog'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: 'Parental Control',
-        item: 'https://www.trackmastertool.com/blog/parental-control'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control'
       },
       {
         '@type': 'ListItem',
         position: 4,
         name: 'Call of Duty Gaming Safety',
-        item: 'https://www.trackmastertool.com/blog/parental-control/call-of-duty-gaming-safety'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control/call-of-duty-gaming-safety'
       }
     ]
   };

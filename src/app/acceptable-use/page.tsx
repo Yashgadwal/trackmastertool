@@ -4,7 +4,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'Acceptable Use Policy - TrackMasterTool',
   description: 'TrackMasterTool Acceptable Use Policy. Explicitly prohibiting unauthorized surveillance, stalkerware, credential theft, and non-consensual monitoring.',
-  canonical: 'https://www.trackmastertool.com/acceptable-use',
+  canonical: 'https://trackmastertool.vercel.app/acceptable-use',
 });
 
 export default function AcceptableUsePage() {

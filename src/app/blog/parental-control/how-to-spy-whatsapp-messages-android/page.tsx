@@ -45,7 +45,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'How to Monitor WhatsApp Messages of Minor Children on Android (2026)',
   description: 'Learn how to legitimately monitor your child\'s WhatsApp activity on Android. Technical guide on Android Accessibility APIs, notification access, stalkerware warnings, transparent companion status bar icons, and parental safety.',
-  canonical: 'https://www.trackmastertool.com/blog/parental-control/how-to-spy-whatsapp-messages-android',
+  canonical: 'https://trackmastertool.vercel.app/blog/parental-control/how-to-spy-whatsapp-messages-android',
 });
 
 export default function HowToSpyWhatsappMessagesAndroidPage() {
@@ -57,20 +57,20 @@ export default function HowToSpyWhatsappMessagesAndroidPage() {
     'author': {
       '@type': 'Organization',
       'name': 'TrackMaster Editorial Team',
-      'url': 'https://www.trackmastertool.com'
+      'url': 'https://trackmastertool.vercel.app'
     },
     'publisher': {
       '@type': 'Organization',
       'name': 'TrackMasterTool',
       'logo': {
         '@type': 'ImageObject',
-        'url': 'https://www.trackmastertool.com/logo.png'
+        'url': 'https://trackmastertool.vercel.app/logo.png'
       }
     },
     'datePublished': '2026-08-11',
     'dateModified': '2026-08-11',
-    'mainEntityOfPage': 'https://www.trackmastertool.com/blog/parental-control/how-to-spy-whatsapp-messages-android',
-    'image': 'https://www.trackmastertool.com/images/blog/phone_monitoring.jpg'
+    'mainEntityOfPage': 'https://trackmastertool.vercel.app/blog/parental-control/how-to-spy-whatsapp-messages-android',
+    'image': 'https://trackmastertool.vercel.app/images/blog/phone_monitoring.jpg'
   };
 
   const jsonLdFaq = {

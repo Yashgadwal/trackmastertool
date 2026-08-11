@@ -20,7 +20,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: "How to Spy on My Wife's Text Messages: Legal Risks, Scams & Safety Guide",
   description: "Curious about how to spy on your wife's text messages? Read our comprehensive educational guide on wiretapping laws, spyware scams, and legal family safety tools.",
-  canonical: "https://www.trackmastertool.com/blog/parental-control/how-to-spy-on-my-wifes-text-messages",
+  canonical: "https://trackmastertool.vercel.app/blog/parental-control/how-to-spy-on-my-wifes-text-messages",
 });
 
 export default function HowToSpyWifeTextsPage() {

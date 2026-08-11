@@ -35,7 +35,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: "Is It Possible to Track Online Activities Legally? (2026 Guide)",
   description: "Comprehensive legal analysis of adult online activity tracking, Wiretap Act regulations, stalkerware scams, phone security diagnostics, and transparent family safety solutions.",
-  canonical: 'https://www.trackmastertool.com/blog/parental-control/track-wife-online-activity-legality',
+  canonical: 'https://trackmastertool.vercel.app/blog/parental-control/track-wife-online-activity-legality',
 });
 
 export default function TrackWifeOnlineActivityLegalityPage() {
@@ -44,7 +44,7 @@ export default function TrackWifeOnlineActivityLegalityPage() {
     '@type': 'Article',
     headline: "Is It Possible to Track Online Activities Legally? Legal Analysis, Stalkerware Scams & Safe Alternatives",
     description: "An in-depth legal and technical guide examining adult device tracking laws, exposing online monitoring scams, providing step-by-step device security audits, and presenting transparent, consent-based family safety alternatives.",
-    image: 'https://www.trackmastertool.com/images/blog/phone_monitoring.jpg',
+    image: 'https://trackmastertool.vercel.app/images/blog/phone_monitoring.jpg',
     author: {
       '@type': 'Organization',
       name: 'TrackMaster Editorial Team',
@@ -54,7 +54,7 @@ export default function TrackWifeOnlineActivityLegalityPage() {
       name: 'TrackMasterTool',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://www.trackmastertool.com/logo.png',
+        url: 'https://trackmastertool.vercel.app/logo.png',
       },
     },
     datePublished: '2026-08-11',
@@ -148,25 +148,25 @@ export default function TrackWifeOnlineActivityLegalityPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'Home',
-        item: 'https://www.trackmastertool.com'
+        item: 'https://trackmastertool.vercel.app'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: 'Blog',
-        item: 'https://www.trackmastertool.com/blog'
+        item: 'https://trackmastertool.vercel.app/blog'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: 'Parental Control',
-        item: 'https://www.trackmastertool.com/blog/parental-control'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control'
       },
       {
         '@type': 'ListItem',
         position: 4,
         name: 'Track Online Activities Legally',
-        item: 'https://www.trackmastertool.com/blog/parental-control/track-wife-online-activity-legality'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control/track-wife-online-activity-legality'
       }
     ]
   };

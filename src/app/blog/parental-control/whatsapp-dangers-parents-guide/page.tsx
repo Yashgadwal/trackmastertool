@@ -27,7 +27,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'WhatsApp Dangers: Every Parent Must Know | Complete Safety Guide',
   description: 'Understand the primary WhatsApp risks for children: strangers, group invite links, peer pressure, disappearing messages, and location-sharing tricks. Learn how to protect your child using native settings and TrackMasterTool.',
-  canonical: 'https://www.trackmastertool.com/blog/parental-control/whatsapp-dangers-parents-guide',
+  canonical: 'https://trackmastertool.vercel.app/blog/parental-control/whatsapp-dangers-parents-guide',
   ogImage: '/images/blog/phone_monitoring.jpg',
 });
 
@@ -37,7 +37,7 @@ export default function WhatsAppDangersGuidePage() {
     '@type': 'Article',
     headline: 'WhatsApp Dangers: Every Parent Must Know',
     description: 'A comprehensive educational guide for parents detailing the digital risks of WhatsApp for children—including strangers, disappearing messages, and group invite links—alongside native privacy settings and TrackMasterTool controls.',
-    image: 'https://www.trackmastertool.com/images/blog/phone_monitoring.jpg',
+    image: 'https://trackmastertool.vercel.app/images/blog/phone_monitoring.jpg',
     author: {
       '@type': 'Organization',
       name: 'TrackMaster Editorial Team',
@@ -47,7 +47,7 @@ export default function WhatsAppDangersGuidePage() {
       name: 'TrackMasterTool',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://www.trackmastertool.com/logo.png',
+        url: 'https://trackmastertool.vercel.app/logo.png',
       },
     },
     datePublished: '2026-08-11',
@@ -141,25 +141,25 @@ export default function WhatsAppDangersGuidePage() {
         '@type': 'ListItem',
         position: 1,
         name: 'Home',
-        item: 'https://www.trackmastertool.com'
+        item: 'https://trackmastertool.vercel.app'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: 'Blog',
-        item: 'https://www.trackmastertool.com/blog'
+        item: 'https://trackmastertool.vercel.app/blog'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: 'Parental Control',
-        item: 'https://www.trackmastertool.com/blog/parental-control'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control'
       },
       {
         '@type': 'ListItem',
         position: 4,
         name: 'WhatsApp Dangers Guide',
-        item: 'https://www.trackmastertool.com/blog/parental-control/whatsapp-dangers-parents-guide'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control/whatsapp-dangers-parents-guide'
       }
     ]
   };

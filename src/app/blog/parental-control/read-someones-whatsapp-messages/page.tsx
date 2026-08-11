@@ -35,7 +35,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: "How to Read Someone’s WhatsApp Messages on Your Phone? Facts, Scams, & Safety Guide",
   description: "Discover the technical reality of reading WhatsApp messages on your phone. Debunking secret spy hacks, explaining WhatsApp Web session pairing, Signal E2EE, and setting up legitimate parent controls.",
-  canonical: "https://www.trackmastertool.com/blog/parental-control/read-someones-whatsapp-messages",
+  canonical: "https://trackmastertool.vercel.app/blog/parental-control/read-someones-whatsapp-messages",
 });
 
 export default function ReadSomeonesWhatsAppMessagesPage() {
@@ -44,7 +44,7 @@ export default function ReadSomeonesWhatsAppMessagesPage() {
     '@type': 'Article',
     headline: 'How to Read Someone’s WhatsApp Messages on Your Phone? Facts, Scams, & Safety Guide',
     description: 'An in-depth cybersecurity and legal breakdown of popular search queries regarding WhatsApp message reading, remote spy hacks, WhatsApp Web session pairing notifications, Signal Protocol end-to-end encryption, and transparent parental control solutions.',
-    image: 'https://www.trackmastertool.com/images/blog/phone_monitoring.jpg',
+    image: 'https://trackmastertool.vercel.app/images/blog/phone_monitoring.jpg',
     author: {
       '@type': 'Organization',
       name: 'TrackMaster Editorial Team',
@@ -54,7 +54,7 @@ export default function ReadSomeonesWhatsAppMessagesPage() {
       name: 'TrackMasterTool',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://www.trackmastertool.com/logo.png',
+        url: 'https://trackmastertool.vercel.app/logo.png',
       },
     },
     datePublished: '2026-08-11',
@@ -148,25 +148,25 @@ export default function ReadSomeonesWhatsAppMessagesPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'Home',
-        item: 'https://www.trackmastertool.com'
+        item: 'https://trackmastertool.vercel.app'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: 'Blog',
-        item: 'https://www.trackmastertool.com/blog'
+        item: 'https://trackmastertool.vercel.app/blog'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: 'Parental Control',
-        item: 'https://www.trackmastertool.com/blog/parental-control'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control'
       },
       {
         '@type': 'ListItem',
         position: 4,
         name: 'Read WhatsApp Messages Guide',
-        item: 'https://www.trackmastertool.com/blog/parental-control/read-someones-whatsapp-messages'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control/read-someones-whatsapp-messages'
       }
     ]
   };

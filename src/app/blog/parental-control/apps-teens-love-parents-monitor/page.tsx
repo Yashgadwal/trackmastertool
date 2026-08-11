@@ -24,7 +24,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: '4 Apps Teens Love That Parents Need to Monitor in 2026: The Ultimate Safety Guide',
   description: 'Analyze the safety risks of TikTok, Snapchat, Discord, and Viber/WhatsApp. Discover how to transparently manage screen time, block inappropriate contacts, and enforce bedtime schedules using TrackMasterTool.',
-  canonical: 'https://www.trackmastertool.com/blog/parental-control/apps-teens-love-parents-monitor',
+  canonical: 'https://trackmastertool.vercel.app/blog/parental-control/apps-teens-love-parents-monitor',
 });
 
 export default function AppsTeensLoveMonitorPage() {
@@ -33,7 +33,7 @@ export default function AppsTeensLoveMonitorPage() {
     '@type': 'Article',
     headline: '4 Apps Teens Love That Parents Need to Monitor in 2026: The Ultimate Safety Guide',
     description: 'A comprehensive, technical review of TikTok, Snapchat, Discord, and Viber/WhatsApp safety risks. Learn how parents can supervise screen time, block messaging threats, and establish safe boundaries using TrackMasterTool.',
-    image: 'https://www.trackmastertool.com/images/blog/phone_monitoring.jpg',
+    image: 'https://trackmastertool.vercel.app/images/blog/phone_monitoring.jpg',
     author: {
       '@type': 'Organization',
       name: 'TrackMaster Editorial Team',
@@ -43,7 +43,7 @@ export default function AppsTeensLoveMonitorPage() {
       name: 'TrackMasterTool',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://www.trackmastertool.com/logo.png',
+        url: 'https://trackmastertool.vercel.app/logo.png',
       },
     },
     datePublished: '2026-08-11',
@@ -129,25 +129,25 @@ export default function AppsTeensLoveMonitorPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'Home',
-        item: 'https://www.trackmastertool.com'
+        item: 'https://trackmastertool.vercel.app'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: 'Blog',
-        item: 'https://www.trackmastertool.com/blog'
+        item: 'https://trackmastertool.vercel.app/blog'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: 'Parental Control',
-        item: 'https://www.trackmastertool.com/blog/parental-control'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control'
       },
       {
         '@type': 'ListItem',
         position: 4,
         name: 'Apps Teens Love that Parents Need to Monitor',
-        item: 'https://www.trackmastertool.com/blog/parental-control/apps-teens-love-parents-monitor'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control/apps-teens-love-parents-monitor'
       }
     ]
   };

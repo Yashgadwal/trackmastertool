@@ -32,7 +32,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'Best Parental Control App with Location Tracking in 2026: Complete Family Safety Guide',
   description: 'Discover the best parental control app with location tracking for 2026. Compare real-time GPS accuracy, geofence alerts, battery optimization, privacy, and teen autonomy.',
-  canonical: 'https://www.trackmastertool.com/blog/parental-control/best-parental-control-app-with-location-tracking',
+  canonical: 'https://trackmastertool.vercel.app/blog/parental-control/best-parental-control-app-with-location-tracking',
 });
 
 export default function BestParentalControlAppLocationTrackingPage() {
@@ -44,19 +44,19 @@ export default function BestParentalControlAppLocationTrackingPage() {
     author: {
       '@type': 'Organization',
       name: 'TrackMaster Editorial Team',
-      url: 'https://www.trackmastertool.com',
+      url: 'https://trackmastertool.vercel.app',
     },
     publisher: {
       '@type': 'Organization',
       name: 'TrackMasterTool',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://www.trackmastertool.com/logo.png',
+        url: 'https://trackmastertool.vercel.app/logo.png',
       },
     },
     datePublished: '2026-08-10',
     dateModified: '2026-08-10',
-    mainEntityOfPage: 'https://www.trackmastertool.com/blog/parental-control/best-parental-control-app-with-location-tracking',
+    mainEntityOfPage: 'https://trackmastertool.vercel.app/blog/parental-control/best-parental-control-app-with-location-tracking',
   };
 
   const jsonLdFaq = {

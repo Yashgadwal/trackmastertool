@@ -5,7 +5,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'Device Activity Reports & Family Analytics | TrackMasterTool',
   description: 'Automated weekly digital wellbeing reports detailing screen time trends, application activity, and safety logs for authorized family devices.',
-  canonical: 'https://www.trackmastertool.com/device-activity-reports',
+  canonical: 'https://trackmastertool.vercel.app/device-activity-reports',
 });
 
 export default function DeviceActivityReportsPage() {

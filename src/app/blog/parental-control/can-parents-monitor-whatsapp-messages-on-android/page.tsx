@@ -28,7 +28,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'Can Parents Monitor WhatsApp Messages on Android? (2026 Safety Guide)',
   description: 'Discover how parents can monitor WhatsApp messages on Android safely and legally without rooting. Learn about Android permissions, screen time limits, attachment safety, and transparent parental controls.',
-  canonical: 'https://www.trackmastertool.com/blog/parental-control/can-parents-monitor-whatsapp-messages-on-android',
+  canonical: 'https://trackmastertool.vercel.app/blog/parental-control/can-parents-monitor-whatsapp-messages-on-android',
 });
 
 export default function CanParentsMonitorWhatsappOnAndroidPage() {
@@ -40,20 +40,20 @@ export default function CanParentsMonitorWhatsappOnAndroidPage() {
     'author': {
       '@type': 'Organization',
       'name': 'TrackMaster Editorial Team',
-      'url': 'https://www.trackmastertool.com'
+      'url': 'https://trackmastertool.vercel.app'
     },
     'publisher': {
       '@type': 'Organization',
       'name': 'TrackMasterTool',
       'logo': {
         '@type': 'ImageObject',
-        'url': 'https://www.trackmastertool.com/logo.png'
+        'url': 'https://trackmastertool.vercel.app/logo.png'
       }
     },
     'datePublished': '2026-08-10',
     'dateModified': '2026-08-10',
-    'mainEntityOfPage': 'https://www.trackmastertool.com/blog/parental-control/can-parents-monitor-whatsapp-messages-on-android',
-    'image': 'https://www.trackmastertool.com/images/blog/phone_monitoring.jpg'
+    'mainEntityOfPage': 'https://trackmastertool.vercel.app/blog/parental-control/can-parents-monitor-whatsapp-messages-on-android',
+    'image': 'https://trackmastertool.vercel.app/images/blog/phone_monitoring.jpg'
   };
 
   const jsonLdFaq = {

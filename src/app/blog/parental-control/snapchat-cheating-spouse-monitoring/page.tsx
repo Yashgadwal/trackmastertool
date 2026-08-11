@@ -36,7 +36,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: "Snapchat Cheating: Legality, Spyware Scams, & Safety Guide",
   description: "Curious about a Snapchat cheating tracker? Learn about the federal legal boundaries of spouse spying, online hacker scams, and authorized family safety alternatives.",
-  canonical: "https://www.trackmastertool.com/blog/parental-control/snapchat-cheating-spouse-monitoring",
+  canonical: "https://trackmastertool.vercel.app/blog/parental-control/snapchat-cheating-spouse-monitoring",
 });
 
 export default function SnapchatCheatingSpouseMonitoringPage() {
@@ -48,19 +48,19 @@ export default function SnapchatCheatingSpouseMonitoringPage() {
     author: {
       '@type': 'Organization',
       name: 'TrackMaster Editorial Team',
-      url: 'https://www.trackmastertool.com',
+      url: 'https://trackmastertool.vercel.app',
     },
     publisher: {
       '@type': 'Organization',
       name: 'TrackMasterTool',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://www.trackmastertool.com/logo.png',
+        url: 'https://trackmastertool.vercel.app/logo.png',
       },
     },
     datePublished: '2026-08-11',
     dateModified: '2026-08-11',
-    mainEntityOfPage: 'https://www.trackmastertool.com/blog/parental-control/snapchat-cheating-spouse-monitoring',
+    mainEntityOfPage: 'https://trackmastertool.vercel.app/blog/parental-control/snapchat-cheating-spouse-monitoring',
   };
 
   const jsonLdFaq = {

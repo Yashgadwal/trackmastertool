@@ -29,7 +29,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: "How to Monitor Someone's Instagram Legally & Safely: Parental Guide (2026)",
   description: "Discover effective, legal methods to monitor your child's Instagram activity. Compare Meta's official Family Center supervision with TrackMasterTool's screen time controls, bedtime app lockouts, and safety safeguards.",
-  canonical: 'https://www.trackmastertool.com/blog/parental-control/how-to-monitor-someones-instagram',
+  canonical: 'https://trackmastertool.vercel.app/blog/parental-control/how-to-monitor-someones-instagram',
 });
 
 export default function HowToMonitorInstagramPage() {
@@ -38,34 +38,34 @@ export default function HowToMonitorInstagramPage() {
     '@graph': [
       {
         '@type': 'Article',
-        '@id': 'https://www.trackmastertool.com/blog/parental-control/how-to-monitor-someones-instagram#article',
+        '@id': 'https://trackmastertool.vercel.app/blog/parental-control/how-to-monitor-someones-instagram#article',
         'headline': "How to Monitor Someone's Instagram: Legitimate, Legal Methods That Work for Families",
         'description': "A practical guide for parents on supervising teen Instagram use, setting healthy digital boundaries, using Meta Family Center, and managing app screen time with TrackMasterTool.",
-        'url': 'https://www.trackmastertool.com/blog/parental-control/how-to-monitor-someones-instagram',
+        'url': 'https://trackmastertool.vercel.app/blog/parental-control/how-to-monitor-someones-instagram',
         'datePublished': '2026-08-10T00:00:00+00:00',
         'dateModified': '2026-08-10T00:00:00+00:00',
         'author': {
           '@type': 'Organization',
           'name': 'TrackMaster Editorial Team',
-          'url': 'https://www.trackmastertool.com'
+          'url': 'https://trackmastertool.vercel.app'
         },
         'publisher': {
           '@type': 'Organization',
           'name': 'TrackMasterTool',
-          'url': 'https://www.trackmastertool.com',
+          'url': 'https://trackmastertool.vercel.app',
           'logo': {
             '@type': 'ImageObject',
-            'url': 'https://www.trackmastertool.com/logo.png'
+            'url': 'https://trackmastertool.vercel.app/logo.png'
           }
         },
         'mainEntityOfPage': {
           '@type': 'WebPage',
-          '@id': 'https://www.trackmastertool.com/blog/parental-control/how-to-monitor-someones-instagram'
+          '@id': 'https://trackmastertool.vercel.app/blog/parental-control/how-to-monitor-someones-instagram'
         }
       },
       {
         '@type': 'FAQPage',
-        '@id': 'https://www.trackmastertool.com/blog/parental-control/how-to-monitor-someones-instagram#faq',
+        '@id': 'https://trackmastertool.vercel.app/blog/parental-control/how-to-monitor-someones-instagram#faq',
         'mainEntity': [
           {
             '@type': 'Question',

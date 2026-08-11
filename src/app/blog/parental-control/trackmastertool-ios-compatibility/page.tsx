@@ -35,7 +35,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: 'TrackMasterTool is Now Compatible with iOS 18.5! – Next-Gen iPhone Safety',
   description: 'TrackMasterTool is fully compatible with iOS 18.5. Discover how our transparent Screen Time API and MDM integrations provide seamless family safety, location tracking, and content filtering on Apple devices.',
-  canonical: 'https://www.trackmastertool.com/blog/parental-control/trackmastertool-ios-compatibility',
+  canonical: 'https://trackmastertool.vercel.app/blog/parental-control/trackmastertool-ios-compatibility',
 });
 
 export default function TrackMasterToolIOS185CompatibilityPage() {
@@ -47,19 +47,19 @@ export default function TrackMasterToolIOS185CompatibilityPage() {
     author: {
       '@type': 'Organization',
       name: 'TrackMaster Editorial Team',
-      url: 'https://www.trackmastertool.com',
+      url: 'https://trackmastertool.vercel.app',
     },
     publisher: {
       '@type': 'Organization',
       name: 'TrackMasterTool',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://www.trackmastertool.com/logo.png',
+        url: 'https://trackmastertool.vercel.app/logo.png',
       },
     },
     datePublished: '2026-08-11',
     dateModified: '2026-08-11',
-    mainEntityOfPage: 'https://www.trackmastertool.com/blog/parental-control/trackmastertool-ios-compatibility',
+    mainEntityOfPage: 'https://trackmastertool.vercel.app/blog/parental-control/trackmastertool-ios-compatibility',
   };
 
   const faqSchema = {

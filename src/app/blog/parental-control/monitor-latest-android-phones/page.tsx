@@ -38,7 +38,7 @@ import { generateMetadata } from '@/lib/seo';
 export const metadata = generateMetadata({
   title: "Supervise Latest Android Phones (Android 15 & 16): Setup & Security Guide",
   description: "Master parental supervision on modern Android 15 and Android 16 smartphones. Learn how to configure Restricted Settings, bypass OEM battery killers, set app locks, and establish transparent child safety.",
-  canonical: "https://www.trackmastertool.com/blog/parental-control/monitor-latest-android-phones",
+  canonical: "https://trackmastertool.vercel.app/blog/parental-control/monitor-latest-android-phones",
 });
 
 export default function MonitorLatestAndroidPhonesPage() {
@@ -47,7 +47,7 @@ export default function MonitorLatestAndroidPhonesPage() {
     '@type': 'Article',
     headline: "Supervise Latest Android Phones (Android 15 & 16): Setup, Restricted Settings & Security Guide",
     description: "An exhaustive technical and parental guide on configuring child supervision on Android 15 and Android 16. Covers Restricted Settings, notification permissions, OEM battery optimizations, app locks, and transparent digital safety.",
-    image: 'https://www.trackmastertool.com/images/blog/phone_monitoring.jpg',
+    image: 'https://trackmastertool.vercel.app/images/blog/phone_monitoring.jpg',
     author: {
       '@type': 'Organization',
       name: 'TrackMaster Editorial Team',
@@ -57,7 +57,7 @@ export default function MonitorLatestAndroidPhonesPage() {
       name: 'TrackMasterTool',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://www.trackmastertool.com/logo.png',
+        url: 'https://trackmastertool.vercel.app/logo.png',
       },
     },
     datePublished: '2026-08-11',
@@ -151,25 +151,25 @@ export default function MonitorLatestAndroidPhonesPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'Home',
-        item: 'https://www.trackmastertool.com'
+        item: 'https://trackmastertool.vercel.app'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: 'Blog',
-        item: 'https://www.trackmastertool.com/blog'
+        item: 'https://trackmastertool.vercel.app/blog'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: 'Parental Control',
-        item: 'https://www.trackmastertool.com/blog/parental-control'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control'
       },
       {
         '@type': 'ListItem',
         position: 4,
         name: "Supervise Latest Android Phones (Android 15 & 16)",
-        item: 'https://www.trackmastertool.com/blog/parental-control/monitor-latest-android-phones'
+        item: 'https://trackmastertool.vercel.app/blog/parental-control/monitor-latest-android-phones'
       }
     ]
   };
